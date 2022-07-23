@@ -2,6 +2,7 @@
 #include <vector>
 #include <string>
 #include <map>
+#include <fstream>
 #include <EmergencyRoomSim.h>
 
 int main()

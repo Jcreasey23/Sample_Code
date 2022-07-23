@@ -10,33 +10,22 @@ WaitingRoom :: WaitingRoom() {}//: numAppointments(0){}
         return numAppointments;
     }
 
-    std:: string WaitingRoom ::  get_quename() const
-    {
-        return queName;
-    }
-
     int WaitingRoom :: get_totPatTime() const
     {
         return totalpatTime;
     }
 
-    // size_t WaitingRoom :: size() const
-    // {
-    //     return Waitingroom.size();
-    // }
 
     void WaitingRoom :: checkArrival(int clock, bool showAll)
     {
+        int randompat = rand()% 2000 +1;
         double temp = myRandom.next_double();
         if(temp < arrivalrate)
         {
             Patient p = Patient(clock);
             p.set_arrivaltime(clock);
-            //pat_que.push(p);  //push inside rand section
-            // if(showAll)
-            // {
-            //     std:: cout << "Time is " << clock << ": " << queName << " Arrival, new queue size is " << Waitingroom.size() << std:: endl;
-            // }
+            p.set_name(residents[randompat]);
+
             int probabilty;
             std:: srand (time(NULL));
             probabilty = rand() % 10 + 1;
@@ -62,23 +51,6 @@ WaitingRoom :: WaitingRoom() {}//: numAppointments(0){}
             }
         }
     }
-
-    // int WaitingRoom :: update(int clock, bool showAll)
-    // {
-    //     Patient nextPat = lowPriorityqueue.front();
-    //     pat_que.pop();
-    //     int timeStamp = nextPat.get_arrivaltime();
-    //     int wait = clock - timeStamp;
-    //     totalpatTime =+ wait;
-    //     numAppointments++;
-
-    //     if(showAll)
-    //     {
-    //         std:: cout << "Time is " << clock << ": Treating " << queName << " with time stamp " << timeStamp << std:: endl;
-    //     }
-
-    //     return clock + nextPat.get_caretime();
-    // }
 
     void WaitingRoom :: setArrivalrate(double newArrivalrate)
     {

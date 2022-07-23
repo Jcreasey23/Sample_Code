@@ -21,8 +21,6 @@ private:
 
     bool treated;
 
-    // Do i need to include a que number?? i don't think so because they will be given a priority based on illness
-
 public:
     Patient(int arrivaltime);
 
@@ -41,6 +39,8 @@ public:
     void set_startcare(int time);
 
     void set_endcare(int time);
+    
+    void set_name(std:: string name);
 };
 
 

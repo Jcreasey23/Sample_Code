@@ -31,7 +31,8 @@ private:
 ////////////////////////////////////////////////////////////////////////////////////////////////////
 public:
 
-    ER_Sim();/// : clock(0), finishTime(0)    // Low Priority patient que, mid Prioroty patient que, High priority patient que
+
+    ER_Sim();/// : clock(0), finishTime(0)
 
     void triagePatient();   // Places patient in correct "container"
 

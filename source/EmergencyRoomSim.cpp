@@ -56,6 +56,25 @@
 
         hospital.createNurses(numNurses);
 
+
+        // std:: ifstream readfirst ("residents.txt");
+        // std:: ifstream readlast ("surnames.txt");
+
+        // std::string fname;
+        // std::string lname;
+        // std::string fullname;
+
+        // int counter = 0;
+        // while(counter < 2000)
+        // {
+
+        //     readfirst >> fname;
+        //     readlast >> lname;
+        //     fullname = fname + " " + lname;
+        //     residents.push_back(fullname);
+
+        // }
+
         // Need to then create new nurse objects based on entered number from user
 
 

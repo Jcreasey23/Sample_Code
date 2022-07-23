@@ -11,9 +11,10 @@ class Hospital
 {
 public:
     std:: vector<Doctor> doctors;   // Fill with # of doctors objects specified by user
+    
     std:: vector<Nurse> nurses;    // Fill with # of nurses objects specified by user
 
-    WaitingRoom waitRoom;   // I feel lile this should be defined as a queue
+    WaitingRoom waitRoom;   
 
     void createDoctors(int numDoc);
 

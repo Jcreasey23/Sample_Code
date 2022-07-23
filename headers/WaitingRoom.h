@@ -18,6 +18,8 @@ private:
 
     std :: queue<Patient> processedPatients;
 
+    std :: vector<std::string> residents;
+
     std:: string queName;
 
     int totalpatTime;
@@ -32,8 +34,6 @@ public:
     WaitingRoom();// : numAppointments(0){};
 
     int get_appointments() const;
-
-    std:: string  get_quename() const;
 
     int get_totPatTime() const;
 
@@ -52,6 +52,8 @@ public:
     Patient nextPatient();
 
     void removePatient(Patient pat);
+
+    void readnames();
 
 
 };

@@ -8,7 +8,6 @@
     Patient:: Patient(int arrivaltime)
     {
         arrivalTime = arrivaltime;
-        patientName;  // = random name from list of names
     }
 
     int Patient :: get_arrivaltime() const
@@ -44,4 +43,9 @@
     void Patient :: set_endcare(int time)
     {
         endcaretime = time;
+    }
+
+    void Patient :: set_name(std:: string name)
+    {
+        patientName = name;
     }
