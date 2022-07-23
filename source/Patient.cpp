@@ -8,7 +8,6 @@
     Patient:: Patient(int arrivaltime)
     {
         arrivalTime = arrivaltime;
-        caretime = 1; //+ myrandom.next_int(maxprocessing time)
         patientName;  // = random name from list of names
     }
 
@@ -17,18 +16,32 @@
         return arrivalTime;
     }
 
-    int Patient :: get_caretime() const
-    {
-        return caretime;
-    }
-
     std:: string Patient :: get_PatientName()
     {
         return patientName;
     }
 
-    static void set_maxcaretime(int maxCare)
+    int Patient :: get_Severity() const
     {
-        // Max care for a nurse is 1-10 min
-        // Max care for a Dr. is 1-20 min
+        return severity;
+    }
+
+    void Patient :: set_Severity(int sev)
+    {
+        severity = sev;
+    }
+
+    void Patient :: set_arrivaltime(int time)
+    {
+        arrivalTime = time;
+    }
+
+    void Patient :: set_startcare(int time)
+    {
+        startcaretime = time;
+    }
+
+    void Patient :: set_endcare(int time)
+    {
+        endcaretime = time;
     }

@@ -2,6 +2,7 @@
 #include <string>
 #include <queue>
 #include <Patient.h>
+#include <Random.h>
 
 
 
@@ -9,20 +10,32 @@ class WaitingRoom
 {
     // This class will act as the patient que and summary data about
 private:
-    std:: queue<Patient> pat_que;
+    std:: queue<Patient> lowPriorityqueue;
+
+    std:: queue<Patient> midPriorityqueue;
+
+    std:: queue<Patient> highPriorityqueue;
+
+    std :: queue<Patient> processedPatients;
 
     std:: string queName;
+
+    int totalpatTime;
 
     int numAppointments;
 
     double arrivalrate;
 
+    Random myRandom;
+
 public:
-    WaitingRoom(std:: string my_name) : numAppointments(0), queName(my_name){};
+    WaitingRoom();// : numAppointments(0){};
 
     int get_appointments() const;
 
     std:: string  get_quename() const;
+
+    int get_totPatTime() const;
 
     size_t size() const;
 
@@ -34,6 +47,11 @@ public:
 
     bool empty() const;
 
+    int waitingroomct();
+
+    Patient nextPatient();
+
+    void removePatient(Patient pat);
 
 
 };
