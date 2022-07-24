@@ -6,27 +6,13 @@ class Random
 {
 public:
     
-    Random()
-    {
-        std:: srand(std::time(0));
-    }
+    Random();
 
-    Random(int seed)
-    {
-        int sd = seed;
-        std:: srand(sd);
-    }
+    Random(int seed);
 
-    int next_int(int n)
-    {
-        return int(next_double() * n);
-    }
+    int next_int(int n);
 
-    double next_double()
-    {
-        return double(std::rand()) / RAND_MAX;
-    }
-
+    double next_double();
 
 
 };

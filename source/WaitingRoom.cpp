@@ -18,16 +18,22 @@ WaitingRoom :: WaitingRoom() {}//: numAppointments(0){}
 
     void WaitingRoom :: checkArrival(int clock, bool showAll)
     {
-        int randompat = rand()% 2000 +1;
+        std:: srand (clock);
+        int randompat = rand() % 1999;
         double temp = myRandom.next_double();
         if(temp < arrivalrate)
         {
             Patient p = Patient(clock);
             p.set_arrivaltime(clock);
-            p.set_name(residents[randompat]);
-
+            
+            p.set_name(firstNames[randompat],lastnames[randompat]);
+            if(p.get_PatientfName() == "")
+            {
+                std:: cout << "empty strings" << std:: endl;
+            }
+            numAppointments++;
             int probabilty;
-            std:: srand (time(NULL));
+            //std:: srand (time(NULL));
             probabilty = rand() % 10 + 1;
             if(probabilty <= 7)
             {
@@ -98,18 +104,39 @@ WaitingRoom :: WaitingRoom() {}//: numAppointments(0){}
     {
                 
         int temp = pat.get_Severity();
-        if(temp > 15)
+        if(temp >= 16)
         {
             highPriorityqueue.pop();
+            std:: cout << "Patient removed from waiting room" << std:: endl;
             processedPatients.push(pat);
-        } else if(temp > 9 && temp < 16)
+        } else if(temp >= 11 && temp <= 15)
         {
             midPriorityqueue.pop();
             processedPatients.push(pat);
-        } else if(temp > 0 && temp < 11)
+        } else if(temp >= 1 && temp <= 10)
         {
             lowPriorityqueue.pop();
             processedPatients.push(pat);
         }
 
+    }
+
+    void WaitingRoom :: readnames()
+    {
+        std::ifstream firstnames ("residents.txt");
+        std::ifstream lastname ("surnames.txt");
+
+        std:: string fname;
+        std:: string lname;
+        std:: string fullname;
+
+        for(int i = 0; i < 2000; i++)
+        {
+            firstnames >> fname;
+            lastname >> lname;
+            //fullname = fname + " " + lname;
+
+            firstNames.push_back(fname);
+            lastnames.push_back(lname);
+        }
     }

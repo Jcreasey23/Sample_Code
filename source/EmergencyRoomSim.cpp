@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 #include <queue>
+#include <fstream>
 #include <EmergencyRoomSim.h>
 //#include <WaitingRoom.h>
 
@@ -10,35 +11,50 @@
 
     void ER_Sim :: run_Sim()     // runs simulation
     {
+        std::ofstream summary;
+        summary.open("Summary.txt");
+        std:: cout << "Begin Simulation " << std:: endl;
         for(clock = 0; clock < totTime; clock++)// while time is less than one full week... run all aspects of emergency room
         {
+
+            summary << "Simulation minute: " << clock << std:: endl;
             hospital.waitRoom.checkArrival(clock, showAll);   // when a patient arrives, they are immediately triaged
             if(hospital.waitRoom.waitingroomct() == 0) // If all ques are empty, tell user that waiting room is empty
             {
-                std :: cout << "The Waiting Room is Empty..." << std :: endl;
+                
+                summary << "The Waiting Room is Empty..." << std :: endl;
             }else
             {
-
+            
+            summary << "There are " << hospital.waitRoom.waitingroomct() << " patients in the waiting room" << std::endl;
             Patient pat =  hospital.waitRoom.nextPatient();    // look at waiting room queues in order don't pop patient off high priority queue
 
             // hospital.findCaretaker(clock, pat); // if bool returns true then remove patient from queue and move them into records
             // remove pat from queue and add it to queue of processed patients
             if(hospital.findCaretaker(clock,pat) == true)
             {
+                summary << "Patient has found a caretaker... " << std:: endl;
+                summary << "Patient Name: " << pat.get_PatientfName() << " " << pat.get_Patientlname() << std:: endl;
                 hospital.waitRoom.removePatient(pat);
+                summary << "Patient has been treated!" << std:: endl;
+                
             }
 
             }
 
             
         }
-        
+        summary << "This week, " << hospital.waitRoom.get_appointments() << " patients were treated" << std:: endl;
+        std:: cout << "Simulation complete. Please see Summary.txt for summary and statistics" << std:: endl;
     }
 
     void ER_Sim :: enter_data()  // Reads in the data for the simulation
     {
         // Hospital hospital;
         // Enter data function obtains the specifications for the simulation
+
+        hospital.waitRoom.readnames(); // Fill vectors with names
+
         std:: cout << "Please enter the hourly patient arrival rate. " << "Rate must be at or below 60 patients per hour." << std:: endl;
         std:: cin >> patientarrivalrate;
 

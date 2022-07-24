@@ -21,7 +21,7 @@ private:
 
     int careTimeNurse = 10;  // Maximum care time random between 1-10 min
 
-    int totTime = (7*24*60);        // Total time one week
+    int totTime =  24*60;//(7*24*60);        // Total time one week
 
     bool showAll;       // A flag indicating whether to trace simulation
     

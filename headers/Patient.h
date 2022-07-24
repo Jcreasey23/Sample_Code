@@ -7,7 +7,9 @@
 class Patient
 {
 private:
-    std:: string patientName;
+    std:: string patientfName;
+
+    std:: string patientlName;
 
     int startcaretime;
 
@@ -28,7 +30,9 @@ public:
 
     int get_caretime() const;
 
-    std:: string get_PatientName();
+    std:: string get_PatientfName();
+
+    std:: string get_Patientlname();
 
     int get_Severity() const;
 
@@ -40,7 +44,7 @@ public:
 
     void set_endcare(int time);
     
-    void set_name(std:: string name);
+    void set_name(std:: string fname, std:: string lname);
 };
 
 

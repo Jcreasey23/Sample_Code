@@ -18,13 +18,15 @@ private:
 
     std :: queue<Patient> processedPatients;
 
-    std :: vector<std::string> residents;
+    std :: vector<std::string> firstNames;
+
+    std:: vector<std::string> lastnames;
 
     std:: string queName;
 
     int totalpatTime;
 
-    int numAppointments;
+    int numAppointments = 0;
 
     double arrivalrate;
 

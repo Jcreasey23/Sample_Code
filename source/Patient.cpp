@@ -15,9 +15,14 @@
         return arrivalTime;
     }
 
-    std:: string Patient :: get_PatientName()
+    std:: string Patient :: get_PatientfName()
     {
-        return patientName;
+        return patientfName;
+    }
+
+    std:: string Patient :: get_Patientlname()
+    {
+        return patientlName;
     }
 
     int Patient :: get_Severity() const
@@ -45,7 +50,8 @@
         endcaretime = time;
     }
 
-    void Patient :: set_name(std:: string name)
+    void Patient :: set_name(std:: string fname, std:: string lname)
     {
-        patientName = name;
+        patientfName = fname;
+        patientlName = lname;
     }

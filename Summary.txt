@@ -1,0 +1,4324 @@
+Simulation minute: 0
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Evelyn ADAMS
+Patient has been treated!
+Simulation minute: 1
+The Waiting Room is Empty...
+Simulation minute: 2
+The Waiting Room is Empty...
+Simulation minute: 3
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kayla TURNER
+Patient has been treated!
+Simulation minute: 4
+The Waiting Room is Empty...
+Simulation minute: 5
+The Waiting Room is Empty...
+Simulation minute: 6
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Sophie RIVERA
+Patient has been treated!
+Simulation minute: 7
+The Waiting Room is Empty...
+Simulation minute: 8
+The Waiting Room is Empty...
+Simulation minute: 9
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Mackenzie KELLY
+Patient has been treated!
+Simulation minute: 10
+The Waiting Room is Empty...
+Simulation minute: 11
+The Waiting Room is Empty...
+Simulation minute: 12
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Bailey BENNETT
+Patient has been treated!
+Simulation minute: 13
+The Waiting Room is Empty...
+Simulation minute: 14
+The Waiting Room is Empty...
+Simulation minute: 15
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Caroline SANDERS
+Patient has been treated!
+Simulation minute: 16
+The Waiting Room is Empty...
+Simulation minute: 17
+The Waiting Room is Empty...
+Simulation minute: 18
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Natalia BUTLER
+Patient has been treated!
+Simulation minute: 19
+The Waiting Room is Empty...
+Simulation minute: 20
+The Waiting Room is Empty...
+Simulation minute: 21
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: London GRAHAM
+Patient has been treated!
+Simulation minute: 22
+The Waiting Room is Empty...
+Simulation minute: 23
+The Waiting Room is Empty...
+Simulation minute: 24
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Annabelle HAYES
+Patient has been treated!
+Simulation minute: 25
+The Waiting Room is Empty...
+Simulation minute: 26
+The Waiting Room is Empty...
+Simulation minute: 27
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Reagan MCDONALD
+Patient has been treated!
+Simulation minute: 28
+The Waiting Room is Empty...
+Simulation minute: 29
+The Waiting Room is Empty...
+Simulation minute: 30
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Rebecca WEBB
+Patient has been treated!
+Simulation minute: 31
+The Waiting Room is Empty...
+Simulation minute: 32
+The Waiting Room is Empty...
+Simulation minute: 33
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Giselle JIMENEZ
+Patient has been treated!
+Simulation minute: 34
+The Waiting Room is Empty...
+Simulation minute: 35
+The Waiting Room is Empty...
+Simulation minute: 36
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Melissa HUNT
+Patient has been treated!
+Simulation minute: 37
+The Waiting Room is Empty...
+Simulation minute: 38
+The Waiting Room is Empty...
+Simulation minute: 39
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Keira WARREN
+Patient has been treated!
+Simulation minute: 40
+The Waiting Room is Empty...
+Simulation minute: 41
+The Waiting Room is Empty...
+Simulation minute: 42
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Julianna MEDINA
+Patient has been treated!
+Simulation minute: 43
+The Waiting Room is Empty...
+Simulation minute: 44
+The Waiting Room is Empty...
+Simulation minute: 45
+The Waiting Room is Empty...
+Simulation minute: 46
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Allie SPENCER
+Patient has been treated!
+Simulation minute: 47
+The Waiting Room is Empty...
+Simulation minute: 48
+The Waiting Room is Empty...
+Simulation minute: 49
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Ana KNIGHT
+Patient has been treated!
+Simulation minute: 50
+The Waiting Room is Empty...
+Simulation minute: 51
+The Waiting Room is Empty...
+Simulation minute: 52
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kate LANE
+Patient has been treated!
+Simulation minute: 53
+The Waiting Room is Empty...
+Simulation minute: 54
+The Waiting Room is Empty...
+Simulation minute: 55
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Sabrina LAWRENCE
+Patient has been treated!
+Simulation minute: 56
+The Waiting Room is Empty...
+Simulation minute: 57
+The Waiting Room is Empty...
+Simulation minute: 58
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Cheyenne BURKE
+Patient has been treated!
+Simulation minute: 59
+The Waiting Room is Empty...
+Simulation minute: 60
+The Waiting Room is Empty...
+Simulation minute: 61
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Paisley BISHOP
+Patient has been treated!
+Simulation minute: 62
+The Waiting Room is Empty...
+Simulation minute: 63
+The Waiting Room is Empty...
+Simulation minute: 64
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Cassidy OLIVER
+Patient has been treated!
+Simulation minute: 65
+The Waiting Room is Empty...
+Simulation minute: 66
+The Waiting Room is Empty...
+Simulation minute: 67
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kaydence MCCOY
+Patient has been treated!
+Simulation minute: 68
+The Waiting Room is Empty...
+Simulation minute: 69
+The Waiting Room is Empty...
+Simulation minute: 70
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Leilani BOWMAN
+Patient has been treated!
+Simulation minute: 71
+The Waiting Room is Empty...
+Simulation minute: 72
+The Waiting Room is Empty...
+Simulation minute: 73
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Alejandra BANKS
+Patient has been treated!
+Simulation minute: 74
+The Waiting Room is Empty...
+Simulation minute: 75
+The Waiting Room is Empty...
+Simulation minute: 76
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Dakota SANDOVAL
+Patient has been treated!
+Simulation minute: 77
+The Waiting Room is Empty...
+Simulation minute: 78
+The Waiting Room is Empty...
+Simulation minute: 79
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Isla WADE
+Patient has been treated!
+Simulation minute: 80
+The Waiting Room is Empty...
+Simulation minute: 81
+The Waiting Room is Empty...
+Simulation minute: 82
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kinsley CRAIG
+Patient has been treated!
+Simulation minute: 83
+The Waiting Room is Empty...
+Simulation minute: 84
+The Waiting Room is Empty...
+Simulation minute: 85
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Emely FLEMING
+Patient has been treated!
+Simulation minute: 86
+The Waiting Room is Empty...
+Simulation minute: 87
+The Waiting Room is Empty...
+Simulation minute: 88
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Georgia NORRIS
+Patient has been treated!
+Simulation minute: 89
+The Waiting Room is Empty...
+Simulation minute: 90
+The Waiting Room is Empty...
+Simulation minute: 91
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Aniya TERRY
+Patient has been treated!
+Simulation minute: 92
+The Waiting Room is Empty...
+Simulation minute: 93
+The Waiting Room is Empty...
+Simulation minute: 94
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Jasmin BUSH
+Patient has been treated!
+Simulation minute: 95
+The Waiting Room is Empty...
+Simulation minute: 96
+The Waiting Room is Empty...
+Simulation minute: 97
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Aria JOSEPH
+Patient has been treated!
+Simulation minute: 98
+The Waiting Room is Empty...
+Simulation minute: 99
+The Waiting Room is Empty...
+Simulation minute: 100
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Noelle BALL
+Patient has been treated!
+Simulation minute: 101
+The Waiting Room is Empty...
+Simulation minute: 102
+The Waiting Room is Empty...
+Simulation minute: 103
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Jamie SWANSON
+Patient has been treated!
+Simulation minute: 104
+The Waiting Room is Empty...
+Simulation minute: 105
+The Waiting Room is Empty...
+Simulation minute: 106
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Adelyn OCONNOR
+Patient has been treated!
+Simulation minute: 107
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Julie MOSS
+Patient has been treated!
+Simulation minute: 108
+The Waiting Room is Empty...
+Simulation minute: 109
+The Waiting Room is Empty...
+Simulation minute: 110
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Madelynn FIGUEROA
+Patient has been treated!
+Simulation minute: 111
+The Waiting Room is Empty...
+Simulation minute: 112
+The Waiting Room is Empty...
+Simulation minute: 113
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Finley ADKINS
+Patient has been treated!
+Simulation minute: 114
+The Waiting Room is Empty...
+Simulation minute: 115
+The Waiting Room is Empty...
+Simulation minute: 116
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kiera WEBSTER
+Patient has been treated!
+Simulation minute: 117
+The Waiting Room is Empty...
+Simulation minute: 118
+The Waiting Room is Empty...
+Simulation minute: 119
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Vivienne HODGES
+Patient has been treated!
+Simulation minute: 120
+The Waiting Room is Empty...
+Simulation minute: 121
+The Waiting Room is Empty...
+Simulation minute: 122
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kadence WANG
+Patient has been treated!
+Simulation minute: 123
+The Waiting Room is Empty...
+Simulation minute: 124
+The Waiting Room is Empty...
+Simulation minute: 125
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Janiya BARTON
+Patient has been treated!
+Simulation minute: 126
+The Waiting Room is Empty...
+Simulation minute: 127
+The Waiting Room is Empty...
+Simulation minute: 128
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Celeste OSBORNE
+Patient has been treated!
+Simulation minute: 129
+The Waiting Room is Empty...
+Simulation minute: 130
+The Waiting Room is Empty...
+Simulation minute: 131
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Annika MUELLER
+Patient has been treated!
+Simulation minute: 132
+The Waiting Room is Empty...
+Simulation minute: 133
+The Waiting Room is Empty...
+Simulation minute: 134
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Skyler TYLER
+Patient has been treated!
+Simulation minute: 135
+The Waiting Room is Empty...
+Simulation minute: 136
+The Waiting Room is Empty...
+Simulation minute: 137
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Priscilla FLYNN
+Patient has been treated!
+Simulation minute: 138
+The Waiting Room is Empty...
+Simulation minute: 139
+The Waiting Room is Empty...
+Simulation minute: 140
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Jaylynn OWEN
+Patient has been treated!
+Simulation minute: 141
+The Waiting Room is Empty...
+Simulation minute: 142
+The Waiting Room is Empty...
+Simulation minute: 143
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Arielle DRAKE
+Patient has been treated!
+Simulation minute: 144
+The Waiting Room is Empty...
+Simulation minute: 145
+The Waiting Room is Empty...
+Simulation minute: 146
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Danika CAIN
+Patient has been treated!
+Simulation minute: 147
+The Waiting Room is Empty...
+Simulation minute: 148
+The Waiting Room is Empty...
+Simulation minute: 149
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Liana MONTOYA
+Patient has been treated!
+Simulation minute: 150
+The Waiting Room is Empty...
+Simulation minute: 151
+The Waiting Room is Empty...
+Simulation minute: 152
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kali UNDERWOOD
+Patient has been treated!
+Simulation minute: 153
+The Waiting Room is Empty...
+Simulation minute: 154
+The Waiting Room is Empty...
+Simulation minute: 155
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kaia SERRANO
+Patient has been treated!
+Simulation minute: 156
+The Waiting Room is Empty...
+Simulation minute: 157
+The Waiting Room is Empty...
+Simulation minute: 158
+There are 1 patients in the waiting room
+Simulation minute: 159
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Sylvia DECKER
+Patient has been treated!
+Simulation minute: 160
+The Waiting Room is Empty...
+Simulation minute: 161
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Tori COPELAND
+Patient has been treated!
+Simulation minute: 162
+The Waiting Room is Empty...
+Simulation minute: 163
+The Waiting Room is Empty...
+Simulation minute: 164
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Marie SKINNER
+Patient has been treated!
+Simulation minute: 165
+The Waiting Room is Empty...
+Simulation minute: 166
+The Waiting Room is Empty...
+Simulation minute: 167
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Yasmin SINGLETON
+Patient has been treated!
+Simulation minute: 168
+The Waiting Room is Empty...
+Simulation minute: 169
+The Waiting Room is Empty...
+Simulation minute: 170
+The Waiting Room is Empty...
+Simulation minute: 171
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Aspen PHELPS
+Patient has been treated!
+Simulation minute: 172
+The Waiting Room is Empty...
+Simulation minute: 173
+The Waiting Room is Empty...
+Simulation minute: 174
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Saniya GATES
+Patient has been treated!
+Simulation minute: 175
+The Waiting Room is Empty...
+Simulation minute: 176
+The Waiting Room is Empty...
+Simulation minute: 177
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Sherlyn CALLAHAN
+Patient has been treated!
+Simulation minute: 178
+The Waiting Room is Empty...
+Simulation minute: 179
+The Waiting Room is Empty...
+Simulation minute: 180
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Angelique GLENN
+Patient has been treated!
+Simulation minute: 181
+The Waiting Room is Empty...
+Simulation minute: 182
+The Waiting Room is Empty...
+Simulation minute: 183
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kourtney BERG
+Patient has been treated!
+Simulation minute: 184
+The Waiting Room is Empty...
+Simulation minute: 185
+The Waiting Room is Empty...
+Simulation minute: 186
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Jaylene BAXTER
+Patient has been treated!
+Simulation minute: 187
+The Waiting Room is Empty...
+Simulation minute: 188
+The Waiting Room is Empty...
+Simulation minute: 189
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Briley JOHNS
+Patient has been treated!
+Simulation minute: 190
+The Waiting Room is Empty...
+Simulation minute: 191
+The Waiting Room is Empty...
+Simulation minute: 192
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Greta ANDRADE
+Patient has been treated!
+Simulation minute: 193
+The Waiting Room is Empty...
+Simulation minute: 194
+The Waiting Room is Empty...
+Simulation minute: 195
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Taraji EATON
+Patient has been treated!
+Simulation minute: 196
+The Waiting Room is Empty...
+Simulation minute: 197
+The Waiting Room is Empty...
+Simulation minute: 198
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Ally VANCE
+Patient has been treated!
+Simulation minute: 199
+The Waiting Room is Empty...
+Simulation minute: 200
+The Waiting Room is Empty...
+Simulation minute: 201
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Adrienne WOODARD
+Patient has been treated!
+Simulation minute: 202
+The Waiting Room is Empty...
+Simulation minute: 203
+The Waiting Room is Empty...
+Simulation minute: 204
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Evie NOLAN
+Patient has been treated!
+Simulation minute: 205
+The Waiting Room is Empty...
+Simulation minute: 206
+The Waiting Room is Empty...
+Simulation minute: 207
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kenya ORR
+Patient has been treated!
+Simulation minute: 208
+The Waiting Room is Empty...
+Simulation minute: 209
+The Waiting Room is Empty...
+Simulation minute: 210
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Evelynn MEADOWS
+Patient has been treated!
+Simulation minute: 211
+The Waiting Room is Empty...
+Simulation minute: 212
+The Waiting Room is Empty...
+Simulation minute: 213
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Jakayla BARTLETT
+Patient has been treated!
+Simulation minute: 214
+The Waiting Room is Empty...
+Simulation minute: 215
+The Waiting Room is Empty...
+Simulation minute: 216
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Luz MELENDEZ
+Patient has been treated!
+Simulation minute: 217
+The Waiting Room is Empty...
+Simulation minute: 218
+The Waiting Room is Empty...
+Simulation minute: 219
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Carla HULL
+Patient has been treated!
+Simulation minute: 220
+The Waiting Room is Empty...
+Simulation minute: 221
+The Waiting Room is Empty...
+Simulation minute: 222
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Felicity WEEKS
+Patient has been treated!
+Simulation minute: 223
+The Waiting Room is Empty...
+Simulation minute: 224
+The Waiting Room is Empty...
+Simulation minute: 225
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Bria FROST
+Patient has been treated!
+Simulation minute: 226
+The Waiting Room is Empty...
+Simulation minute: 227
+The Waiting Room is Empty...
+Simulation minute: 228
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Sawyer NOBLE
+Patient has been treated!
+Simulation minute: 229
+The Waiting Room is Empty...
+Simulation minute: 230
+The Waiting Room is Empty...
+Simulation minute: 231
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Allisson CANTU
+Patient has been treated!
+Simulation minute: 232
+The Waiting Room is Empty...
+Simulation minute: 233
+The Waiting Room is Empty...
+Simulation minute: 234
+The Waiting Room is Empty...
+Simulation minute: 235
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Maritza PACE
+Patient has been treated!
+Simulation minute: 236
+The Waiting Room is Empty...
+Simulation minute: 237
+The Waiting Room is Empty...
+Simulation minute: 238
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Chana EVERETT
+Patient has been treated!
+Simulation minute: 239
+The Waiting Room is Empty...
+Simulation minute: 240
+The Waiting Room is Empty...
+Simulation minute: 241
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Livia BLACKBURN
+Patient has been treated!
+Simulation minute: 242
+The Waiting Room is Empty...
+Simulation minute: 243
+The Waiting Room is Empty...
+Simulation minute: 244
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Charley GOULD
+Patient has been treated!
+Simulation minute: 245
+The Waiting Room is Empty...
+Simulation minute: 246
+The Waiting Room is Empty...
+Simulation minute: 247
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Malaya BEAN
+Patient has been treated!
+Simulation minute: 248
+The Waiting Room is Empty...
+Simulation minute: 249
+The Waiting Room is Empty...
+Simulation minute: 250
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Mira BLEVINS
+Patient has been treated!
+Simulation minute: 251
+The Waiting Room is Empty...
+Simulation minute: 252
+The Waiting Room is Empty...
+Simulation minute: 253
+There are 1 patients in the waiting room
+Simulation minute: 254
+There are 1 patients in the waiting room
+Simulation minute: 255
+There are 1 patients in the waiting room
+Simulation minute: 256
+There are 2 patients in the waiting room
+Simulation minute: 257
+There are 2 patients in the waiting room
+Simulation minute: 258
+There are 2 patients in the waiting room
+Simulation minute: 259
+There are 3 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Belinda ROSARIO
+Patient has been treated!
+Simulation minute: 260
+There are 2 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Ryann WOODWARD
+Patient has been treated!
+Simulation minute: 261
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Elianna BRANDT
+Patient has been treated!
+Simulation minute: 262
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Laniyah PONCE
+Patient has been treated!
+Simulation minute: 263
+The Waiting Room is Empty...
+Simulation minute: 264
+The Waiting Room is Empty...
+Simulation minute: 265
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Dominique WALLER
+Patient has been treated!
+Simulation minute: 266
+The Waiting Room is Empty...
+Simulation minute: 267
+The Waiting Room is Empty...
+Simulation minute: 268
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Janiah BELTRAN
+Patient has been treated!
+Simulation minute: 269
+The Waiting Room is Empty...
+Simulation minute: 270
+The Waiting Room is Empty...
+Simulation minute: 271
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Alisa DAVILA
+Patient has been treated!
+Simulation minute: 272
+The Waiting Room is Empty...
+Simulation minute: 273
+The Waiting Room is Empty...
+Simulation minute: 274
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Journee WHITNEY
+Patient has been treated!
+Simulation minute: 275
+The Waiting Room is Empty...
+Simulation minute: 276
+The Waiting Room is Empty...
+Simulation minute: 277
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Mylee BIRD
+Patient has been treated!
+Simulation minute: 278
+The Waiting Room is Empty...
+Simulation minute: 279
+The Waiting Room is Empty...
+Simulation minute: 280
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Audriana ODOM
+Patient has been treated!
+Simulation minute: 281
+The Waiting Room is Empty...
+Simulation minute: 282
+The Waiting Room is Empty...
+Simulation minute: 283
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Pearl ZHANG
+Patient has been treated!
+Simulation minute: 284
+The Waiting Room is Empty...
+Simulation minute: 285
+The Waiting Room is Empty...
+Simulation minute: 286
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Shaylee BRAUN
+Patient has been treated!
+Simulation minute: 287
+The Waiting Room is Empty...
+Simulation minute: 288
+The Waiting Room is Empty...
+Simulation minute: 289
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Ariah COOLEY
+Patient has been treated!
+Simulation minute: 290
+The Waiting Room is Empty...
+Simulation minute: 291
+The Waiting Room is Empty...
+Simulation minute: 292
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Leona CUEVAS
+Patient has been treated!
+Simulation minute: 293
+The Waiting Room is Empty...
+Simulation minute: 294
+The Waiting Room is Empty...
+Simulation minute: 295
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Ethan JOHNSON
+Patient has been treated!
+Simulation minute: 296
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Alexander MILLER
+Patient has been treated!
+Simulation minute: 297
+The Waiting Room is Empty...
+Simulation minute: 298
+The Waiting Room is Empty...
+Simulation minute: 299
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Matthew MOORE
+Patient has been treated!
+Simulation minute: 300
+The Waiting Room is Empty...
+Simulation minute: 301
+The Waiting Room is Empty...
+Simulation minute: 302
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Jackson CLARK
+Patient has been treated!
+Simulation minute: 303
+The Waiting Room is Empty...
+Simulation minute: 304
+The Waiting Room is Empty...
+Simulation minute: 305
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Lucas KING
+Patient has been treated!
+Simulation minute: 306
+The Waiting Room is Empty...
+Simulation minute: 307
+The Waiting Room is Empty...
+Simulation minute: 308
+There are 1 patients in the waiting room
+Simulation minute: 309
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Isaiah ROBERTS
+Patient has been treated!
+Simulation minute: 310
+The Waiting Room is Empty...
+Simulation minute: 311
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Aaron FLORES
+Patient has been treated!
+Simulation minute: 312
+The Waiting Room is Empty...
+Simulation minute: 313
+The Waiting Room is Empty...
+Simulation minute: 314
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Eli REED
+Patient has been treated!
+Simulation minute: 315
+The Waiting Room is Empty...
+Simulation minute: 316
+The Waiting Room is Empty...
+Simulation minute: 317
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Dominic RICHARDSON
+Patient has been treated!
+Simulation minute: 318
+The Waiting Room is Empty...
+Simulation minute: 319
+The Waiting Room is Empty...
+Simulation minute: 320
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Tristan PRICE
+Patient has been treated!
+Simulation minute: 321
+The Waiting Room is Empty...
+Simulation minute: 322
+The Waiting Room is Empty...
+Simulation minute: 323
+There are 1 patients in the waiting room
+Simulation minute: 324
+There are 1 patients in the waiting room
+Simulation minute: 325
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Aidan ORTIZ
+Patient has been treated!
+Simulation minute: 326
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Nolan PATTERSON
+Patient has been treated!
+Simulation minute: 327
+The Waiting Room is Empty...
+Simulation minute: 328
+The Waiting Room is Empty...
+Simulation minute: 329
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Miguel WALLACE
+Patient has been treated!
+Simulation minute: 330
+The Waiting Room is Empty...
+Simulation minute: 331
+The Waiting Room is Empty...
+Simulation minute: 332
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kayden MURRAY
+Patient has been treated!
+Simulation minute: 333
+The Waiting Room is Empty...
+Simulation minute: 334
+The Waiting Room is Empty...
+Simulation minute: 335
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Santiago WOODS
+Patient has been treated!
+Simulation minute: 336
+The Waiting Room is Empty...
+Simulation minute: 337
+The Waiting Room is Empty...
+Simulation minute: 338
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Ivan VASQUEZ
+Patient has been treated!
+Simulation minute: 339
+The Waiting Room is Empty...
+Simulation minute: 340
+The Waiting Room is Empty...
+Simulation minute: 341
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Eduardo HUNTER
+Patient has been treated!
+Simulation minute: 342
+The Waiting Room is Empty...
+Simulation minute: 343
+The Waiting Room is Empty...
+Simulation minute: 344
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Nicolas STONE
+Patient has been treated!
+Simulation minute: 345
+The Waiting Room is Empty...
+Simulation minute: 346
+The Waiting Room is Empty...
+Simulation minute: 347
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Jaxson PATEL
+Patient has been treated!
+Simulation minute: 348
+The Waiting Room is Empty...
+Simulation minute: 349
+The Waiting Room is Empty...
+Simulation minute: 350
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Cristian GARDNER
+Patient has been treated!
+Simulation minute: 351
+The Waiting Room is Empty...
+Simulation minute: 352
+The Waiting Room is Empty...
+Simulation minute: 353
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Peter GRANT
+Patient has been treated!
+Simulation minute: 354
+The Waiting Room is Empty...
+Simulation minute: 355
+The Waiting Room is Empty...
+Simulation minute: 356
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Stephen HUDSON
+Patient has been treated!
+Simulation minute: 357
+The Waiting Room is Empty...
+Simulation minute: 358
+The Waiting Room is Empty...
+Simulation minute: 359
+The Waiting Room is Empty...
+Simulation minute: 360
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Calvin RICHARDS
+Patient has been treated!
+Simulation minute: 361
+The Waiting Room is Empty...
+Simulation minute: 362
+The Waiting Room is Empty...
+Simulation minute: 363
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Raymond CARLSON
+Patient has been treated!
+Simulation minute: 364
+The Waiting Room is Empty...
+Simulation minute: 365
+The Waiting Room is Empty...
+Simulation minute: 366
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Harrison OBRIEN
+Patient has been treated!
+Simulation minute: 367
+The Waiting Room is Empty...
+Simulation minute: 368
+The Waiting Room is Empty...
+Simulation minute: 369
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Charlie JENSEN
+Patient has been treated!
+Simulation minute: 370
+The Waiting Room is Empty...
+Simulation minute: 371
+The Waiting Room is Empty...
+Simulation minute: 372
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Xander SIMS
+Patient has been treated!
+Simulation minute: 373
+The Waiting Room is Empty...
+Simulation minute: 374
+The Waiting Room is Empty...
+Simulation minute: 375
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Marco FIELDS
+Patient has been treated!
+Simulation minute: 376
+The Waiting Room is Empty...
+Simulation minute: 377
+The Waiting Room is Empty...
+Simulation minute: 378
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kameron BREWER
+Patient has been treated!
+Simulation minute: 379
+The Waiting Room is Empty...
+Simulation minute: 380
+The Waiting Room is Empty...
+Simulation minute: 381
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Malik VALDEZ
+Patient has been treated!
+Simulation minute: 382
+The Waiting Room is Empty...
+Simulation minute: 383
+The Waiting Room is Empty...
+Simulation minute: 384
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Dakota BATES
+Patient has been treated!
+Simulation minute: 385
+The Waiting Room is Empty...
+Simulation minute: 386
+The Waiting Room is Empty...
+Simulation minute: 387
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Lane LAMBERT
+Patient has been treated!
+Simulation minute: 388
+The Waiting Room is Empty...
+Simulation minute: 389
+The Waiting Room is Empty...
+Simulation minute: 390
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Grady SHELTON
+Patient has been treated!
+Simulation minute: 391
+The Waiting Room is Empty...
+Simulation minute: 392
+The Waiting Room is Empty...
+Simulation minute: 393
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Lorenzo PARKS
+Patient has been treated!
+Simulation minute: 394
+The Waiting Room is Empty...
+Simulation minute: 395
+The Waiting Room is Empty...
+Simulation minute: 396
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Adan BENSON
+Patient has been treated!
+Simulation minute: 397
+The Waiting Room is Empty...
+Simulation minute: 398
+The Waiting Room is Empty...
+Simulation minute: 399
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Ronald MILES
+Patient has been treated!
+Simulation minute: 400
+The Waiting Room is Empty...
+Simulation minute: 401
+The Waiting Room is Empty...
+Simulation minute: 402
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Gerardo FLETCHER
+Patient has been treated!
+Simulation minute: 403
+The Waiting Room is Empty...
+Simulation minute: 404
+The Waiting Room is Empty...
+Simulation minute: 405
+There are 1 patients in the waiting room
+Simulation minute: 406
+There are 1 patients in the waiting room
+Simulation minute: 407
+There are 1 patients in the waiting room
+Simulation minute: 408
+There are 2 patients in the waiting room
+Simulation minute: 409
+There are 2 patients in the waiting room
+Simulation minute: 410
+There are 2 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Ismael MORAN
+Patient has been treated!
+Simulation minute: 411
+There are 2 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Landyn SHARP
+Patient has been treated!
+Simulation minute: 412
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Phoenix DANIEL
+Patient has been treated!
+Simulation minute: 413
+The Waiting Room is Empty...
+Simulation minute: 414
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Dennis DOYLE
+Patient has been treated!
+Simulation minute: 415
+The Waiting Room is Empty...
+Simulation minute: 416
+The Waiting Room is Empty...
+Simulation minute: 417
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Mathew PAUL
+Patient has been treated!
+Simulation minute: 418
+The Waiting Room is Empty...
+Simulation minute: 419
+The Waiting Room is Empty...
+Simulation minute: 420
+There are 1 patients in the waiting room
+Simulation minute: 421
+There are 2 patients in the waiting room
+Simulation minute: 422
+There are 2 patients in the waiting room
+Simulation minute: 423
+There are 2 patients in the waiting room
+Simulation minute: 424
+There are 3 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Walker CHANG
+Patient has been treated!
+Simulation minute: 425
+There are 2 patients in the waiting room
+Simulation minute: 426
+There are 2 patients in the waiting room
+Simulation minute: 427
+There are 3 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Gustavo BRADY
+Patient has been treated!
+Simulation minute: 428
+There are 2 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Jay WALTON
+Patient has been treated!
+Simulation minute: 429
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Reece DURAN
+Patient has been treated!
+Simulation minute: 430
+There are 1 patients in the waiting room
+Simulation minute: 431
+There are 1 patients in the waiting room
+Simulation minute: 432
+There are 1 patients in the waiting room
+Simulation minute: 433
+There are 2 patients in the waiting room
+Simulation minute: 434
+There are 2 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Enzo CARRILLO
+Patient has been treated!
+Simulation minute: 435
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Nikolas PARSONS
+Patient has been treated!
+Simulation minute: 436
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Nickolas CASEY
+Patient has been treated!
+Simulation minute: 437
+The Waiting Room is Empty...
+Simulation minute: 438
+The Waiting Room is Empty...
+Simulation minute: 439
+There are 1 patients in the waiting room
+Simulation minute: 440
+There are 1 patients in the waiting room
+Simulation minute: 441
+There are 1 patients in the waiting room
+Simulation minute: 442
+There are 2 patients in the waiting room
+Simulation minute: 443
+There are 2 patients in the waiting room
+Simulation minute: 444
+There are 2 patients in the waiting room
+Simulation minute: 445
+There are 3 patients in the waiting room
+Simulation minute: 446
+There are 3 patients in the waiting room
+Simulation minute: 447
+There are 3 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Jacoby FRENCH
+Patient has been treated!
+Simulation minute: 448
+There are 3 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Shaun LEON
+Patient has been treated!
+Simulation minute: 449
+There are 2 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Reese LINDSEY
+Patient has been treated!
+Simulation minute: 450
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Ari BROCK
+Patient has been treated!
+Simulation minute: 451
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Aldo PACHECO
+Patient has been treated!
+Simulation minute: 452
+The Waiting Room is Empty...
+Simulation minute: 453
+The Waiting Room is Empty...
+Simulation minute: 454
+There are 1 patients in the waiting room
+Simulation minute: 455
+There are 1 patients in the waiting room
+Simulation minute: 456
+There are 1 patients in the waiting room
+Simulation minute: 457
+There are 2 patients in the waiting room
+Simulation minute: 458
+There are 2 patients in the waiting room
+Simulation minute: 459
+There are 2 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Prince BRIGGS
+Patient has been treated!
+Simulation minute: 460
+There are 2 patients in the waiting room
+Simulation minute: 461
+There are 2 patients in the waiting room
+Simulation minute: 462
+There are 2 patients in the waiting room
+Simulation minute: 463
+There are 3 patients in the waiting room
+Simulation minute: 464
+There are 3 patients in the waiting room
+Simulation minute: 465
+There are 3 patients in the waiting room
+Simulation minute: 466
+There are 4 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kamari SUMMERS
+Patient has been treated!
+Simulation minute: 467
+There are 3 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Abram WEISS
+Patient has been treated!
+Simulation minute: 468
+There are 2 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Rodney GALLEGOS
+Patient has been treated!
+Simulation minute: 469
+There are 2 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Julien DAVENPORT
+Patient has been treated!
+Simulation minute: 470
+There are 1 patients in the waiting room
+Simulation minute: 471
+There are 1 patients in the waiting room
+Simulation minute: 472
+There are 2 patients in the waiting room
+Simulation minute: 473
+There are 2 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Carl FRANCO
+Patient has been treated!
+Simulation minute: 474
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Marc ANTHONY
+Patient has been treated!
+Simulation minute: 475
+There are 1 patients in the waiting room
+Simulation minute: 476
+There are 1 patients in the waiting room
+Simulation minute: 477
+There are 1 patients in the waiting room
+Simulation minute: 478
+There are 2 patients in the waiting room
+Simulation minute: 479
+There are 2 patients in the waiting room
+Simulation minute: 480
+There are 2 patients in the waiting room
+Simulation minute: 481
+There are 3 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Terrence ALLISON
+Patient has been treated!
+Simulation minute: 482
+There are 2 patients in the waiting room
+Simulation minute: 483
+There are 2 patients in the waiting room
+Simulation minute: 484
+There are 2 patients in the waiting room
+Simulation minute: 485
+There are 3 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Allan HODGE
+Patient has been treated!
+Simulation minute: 486
+There are 2 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Mohammed CASTANEDA
+Patient has been treated!
+Simulation minute: 487
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Urijah SHIELDS
+Patient has been treated!
+Simulation minute: 488
+There are 1 patients in the waiting room
+Simulation minute: 489
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Darian ONEILL
+Patient has been treated!
+Simulation minute: 490
+The Waiting Room is Empty...
+Simulation minute: 491
+There are 1 patients in the waiting room
+Simulation minute: 492
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Sincere SALAS
+Patient has been treated!
+Simulation minute: 493
+The Waiting Room is Empty...
+Simulation minute: 494
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Santino MCDOWELL
+Patient has been treated!
+Simulation minute: 495
+The Waiting Room is Empty...
+Simulation minute: 496
+The Waiting Room is Empty...
+Simulation minute: 497
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Ray IBARRA
+Patient has been treated!
+Simulation minute: 498
+The Waiting Room is Empty...
+Simulation minute: 499
+The Waiting Room is Empty...
+Simulation minute: 500
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kylan MCCLURE
+Patient has been treated!
+Simulation minute: 501
+The Waiting Room is Empty...
+Simulation minute: 502
+The Waiting Room is Empty...
+Simulation minute: 503
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Markus SMALL
+Patient has been treated!
+Simulation minute: 504
+The Waiting Room is Empty...
+Simulation minute: 505
+The Waiting Room is Empty...
+Simulation minute: 506
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Ben ENGLISH
+Patient has been treated!
+Simulation minute: 507
+The Waiting Room is Empty...
+Simulation minute: 508
+The Waiting Room is Empty...
+Simulation minute: 509
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Damion MERRITT
+Patient has been treated!
+Simulation minute: 510
+The Waiting Room is Empty...
+Simulation minute: 511
+The Waiting Room is Empty...
+Simulation minute: 512
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Vicente VALENZUELA
+Patient has been treated!
+Simulation minute: 513
+The Waiting Room is Empty...
+Simulation minute: 514
+The Waiting Room is Empty...
+Simulation minute: 515
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Osvaldo WHITEHEAD
+Patient has been treated!
+Simulation minute: 516
+The Waiting Room is Empty...
+Simulation minute: 517
+The Waiting Room is Empty...
+Simulation minute: 518
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Maxim BLANKENSHIP
+Patient has been treated!
+Simulation minute: 519
+The Waiting Room is Empty...
+Simulation minute: 520
+The Waiting Room is Empty...
+Simulation minute: 521
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Rudy DURHAM
+Patient has been treated!
+Simulation minute: 522
+The Waiting Room is Empty...
+Simulation minute: 523
+The Waiting Room is Empty...
+Simulation minute: 524
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Rory RANGEL
+Patient has been treated!
+Simulation minute: 525
+The Waiting Room is Empty...
+Simulation minute: 526
+The Waiting Room is Empty...
+Simulation minute: 527
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Zachery KNAPP
+Patient has been treated!
+Simulation minute: 528
+The Waiting Room is Empty...
+Simulation minute: 529
+The Waiting Room is Empty...
+Simulation minute: 530
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Ramiro GLASS
+Patient has been treated!
+Simulation minute: 531
+The Waiting Room is Empty...
+Simulation minute: 532
+The Waiting Room is Empty...
+Simulation minute: 533
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Gilberto REILLY
+Patient has been treated!
+Simulation minute: 534
+The Waiting Room is Empty...
+Simulation minute: 535
+The Waiting Room is Empty...
+Simulation minute: 536
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Antoine VELAZQUEZ
+Patient has been treated!
+Simulation minute: 537
+The Waiting Room is Empty...
+Simulation minute: 538
+The Waiting Room is Empty...
+Simulation minute: 539
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kymani DONOVAN
+Patient has been treated!
+Simulation minute: 540
+The Waiting Room is Empty...
+Simulation minute: 541
+The Waiting Room is Empty...
+Simulation minute: 542
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Yosef MAYS
+Patient has been treated!
+Simulation minute: 543
+The Waiting Room is Empty...
+Simulation minute: 544
+The Waiting Room is Empty...
+Simulation minute: 545
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Jovanni MCMAHON
+Patient has been treated!
+Simulation minute: 546
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Ishaan HAHN
+Patient has been treated!
+Simulation minute: 547
+The Waiting Room is Empty...
+Simulation minute: 548
+The Waiting Room is Empty...
+Simulation minute: 549
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kyron POTTS
+Patient has been treated!
+Simulation minute: 550
+The Waiting Room is Empty...
+Simulation minute: 551
+The Waiting Room is Empty...
+Simulation minute: 552
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Bentlee DODSON
+Patient has been treated!
+Simulation minute: 553
+The Waiting Room is Empty...
+Simulation minute: 554
+The Waiting Room is Empty...
+Simulation minute: 555
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Dominique ASHLEY
+Patient has been treated!
+Simulation minute: 556
+The Waiting Room is Empty...
+Simulation minute: 557
+The Waiting Room is Empty...
+Simulation minute: 558
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Izayah HUBER
+Patient has been treated!
+Simulation minute: 559
+The Waiting Room is Empty...
+Simulation minute: 560
+The Waiting Room is Empty...
+Simulation minute: 561
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Emmitt MOYER
+Patient has been treated!
+Simulation minute: 562
+The Waiting Room is Empty...
+Simulation minute: 563
+The Waiting Room is Empty...
+Simulation minute: 564
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Vincenzo MCCARTY
+Patient has been treated!
+Simulation minute: 565
+The Waiting Room is Empty...
+Simulation minute: 566
+The Waiting Room is Empty...
+Simulation minute: 567
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Deegan BURCH
+Patient has been treated!
+Simulation minute: 568
+The Waiting Room is Empty...
+Simulation minute: 569
+The Waiting Room is Empty...
+Simulation minute: 570
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Ameer MONTES
+Patient has been treated!
+Simulation minute: 571
+The Waiting Room is Empty...
+Simulation minute: 572
+The Waiting Room is Empty...
+Simulation minute: 573
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Johann COMPTON
+Patient has been treated!
+Simulation minute: 574
+The Waiting Room is Empty...
+Simulation minute: 575
+The Waiting Room is Empty...
+Simulation minute: 576
+There are 1 patients in the waiting room
+Simulation minute: 577
+There are 1 patients in the waiting room
+Simulation minute: 578
+There are 1 patients in the waiting room
+Simulation minute: 579
+There are 2 patients in the waiting room
+Simulation minute: 580
+There are 2 patients in the waiting room
+Simulation minute: 581
+There are 2 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Yael CANTRELL
+Patient has been treated!
+Simulation minute: 582
+There are 2 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Hezekiah IRWIN
+Patient has been treated!
+Simulation minute: 583
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Cortez HOLDEN
+Patient has been treated!
+Simulation minute: 584
+The Waiting Room is Empty...
+Simulation minute: 585
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Dangelo MERCER
+Patient has been treated!
+Simulation minute: 586
+The Waiting Room is Empty...
+Simulation minute: 587
+The Waiting Room is Empty...
+Simulation minute: 588
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Pranav HUERTA
+Patient has been treated!
+Simulation minute: 589
+The Waiting Room is Empty...
+Simulation minute: 590
+The Waiting Room is Empty...
+Simulation minute: 591
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Zack EWING
+Patient has been treated!
+Simulation minute: 592
+The Waiting Room is Empty...
+Simulation minute: 593
+The Waiting Room is Empty...
+Simulation minute: 594
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Daylen CHANEY
+Patient has been treated!
+Simulation minute: 595
+The Waiting Room is Empty...
+Simulation minute: 596
+The Waiting Room is Empty...
+Simulation minute: 597
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Clinton BARAJAS
+Patient has been treated!
+Simulation minute: 598
+The Waiting Room is Empty...
+Simulation minute: 599
+The Waiting Room is Empty...
+Simulation minute: 600
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Jaquan KIDD
+Patient has been treated!
+Simulation minute: 601
+The Waiting Room is Empty...
+Simulation minute: 602
+The Waiting Room is Empty...
+Simulation minute: 603
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Chloe RODRIGUEZ
+Patient has been treated!
+Simulation minute: 604
+The Waiting Room is Empty...
+Simulation minute: 605
+The Waiting Room is Empty...
+Simulation minute: 606
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Hailey THOMPSON
+Patient has been treated!
+Simulation minute: 607
+The Waiting Room is Empty...
+Simulation minute: 608
+The Waiting Room is Empty...
+Simulation minute: 609
+The Waiting Room is Empty...
+Simulation minute: 610
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Victoria ALLEN
+Patient has been treated!
+Simulation minute: 611
+The Waiting Room is Empty...
+Simulation minute: 612
+The Waiting Room is Empty...
+Simulation minute: 613
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Khloe RAMIREZ
+Patient has been treated!
+Simulation minute: 614
+The Waiting Room is Empty...
+Simulation minute: 615
+The Waiting Room is Empty...
+Simulation minute: 616
+There are 1 patients in the waiting room
+Simulation minute: 617
+There are 1 patients in the waiting room
+Simulation minute: 618
+There are 1 patients in the waiting room
+Simulation minute: 619
+There are 2 patients in the waiting room
+Simulation minute: 620
+There are 2 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Audrey COLLINS
+Patient has been treated!
+Simulation minute: 621
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Jasmine MORGAN
+Patient has been treated!
+Simulation minute: 622
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Destiny WARD
+Patient has been treated!
+Simulation minute: 623
+The Waiting Room is Empty...
+Simulation minute: 624
+The Waiting Room is Empty...
+Simulation minute: 625
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Autumn REYES
+Patient has been treated!
+Simulation minute: 626
+The Waiting Room is Empty...
+Simulation minute: 627
+The Waiting Room is Empty...
+Simulation minute: 628
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Eva POWELL
+Patient has been treated!
+Simulation minute: 629
+The Waiting Room is Empty...
+Simulation minute: 630
+The Waiting Room is Empty...
+Simulation minute: 631
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Mya HENDERSON
+Patient has been treated!
+Simulation minute: 632
+The Waiting Room is Empty...
+Simulation minute: 633
+The Waiting Room is Empty...
+Simulation minute: 634
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kennedy GONZALES
+Patient has been treated!
+Simulation minute: 635
+The Waiting Room is Empty...
+Simulation minute: 636
+The Waiting Room is Empty...
+Simulation minute: 637
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Jennifer BRYANT
+Patient has been treated!
+Simulation minute: 638
+The Waiting Room is Empty...
+Simulation minute: 639
+The Waiting Room is Empty...
+Simulation minute: 640
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Gracie KENNEDY
+Patient has been treated!
+Simulation minute: 641
+The Waiting Room is Empty...
+Simulation minute: 642
+The Waiting Room is Empty...
+Simulation minute: 643
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Izabella FREEMAN
+Patient has been treated!
+Simulation minute: 644
+The Waiting Room is Empty...
+Simulation minute: 645
+The Waiting Room is Empty...
+Simulation minute: 646
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Daniela SHAW
+Patient has been treated!
+Simulation minute: 647
+The Waiting Room is Empty...
+Simulation minute: 648
+The Waiting Room is Empty...
+Simulation minute: 649
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Nora ROBERTSON
+Patient has been treated!
+Simulation minute: 650
+The Waiting Room is Empty...
+Simulation minute: 651
+The Waiting Room is Empty...
+Simulation minute: 652
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Eliana RICE
+Patient has been treated!
+Simulation minute: 653
+The Waiting Room is Empty...
+Simulation minute: 654
+The Waiting Room is Empty...
+Simulation minute: 655
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Mikayla WEAVER
+Patient has been treated!
+Simulation minute: 656
+The Waiting Room is Empty...
+Simulation minute: 657
+The Waiting Room is Empty...
+Simulation minute: 658
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Allie SPENCER
+Patient has been treated!
+Simulation minute: 659
+The Waiting Room is Empty...
+Simulation minute: 660
+The Waiting Room is Empty...
+Simulation minute: 661
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Ana KNIGHT
+Patient has been treated!
+Simulation minute: 662
+The Waiting Room is Empty...
+Simulation minute: 663
+The Waiting Room is Empty...
+Simulation minute: 664
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Delaney RAY
+Patient has been treated!
+Simulation minute: 665
+The Waiting Room is Empty...
+Simulation minute: 666
+The Waiting Room is Empty...
+Simulation minute: 667
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Carly CHAPMAN
+Patient has been treated!
+Simulation minute: 668
+The Waiting Room is Empty...
+Simulation minute: 669
+The Waiting Room is Empty...
+Simulation minute: 670
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Mckenna GREENE
+Patient has been treated!
+Simulation minute: 671
+The Waiting Room is Empty...
+Simulation minute: 672
+The Waiting Room is Empty...
+Simulation minute: 673
+The Waiting Room is Empty...
+Simulation minute: 674
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Lexi AUSTIN
+Patient has been treated!
+Simulation minute: 675
+The Waiting Room is Empty...
+Simulation minute: 676
+The Waiting Room is Empty...
+Simulation minute: 677
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Jazmin HANSON
+Patient has been treated!
+Simulation minute: 678
+The Waiting Room is Empty...
+Simulation minute: 679
+The Waiting Room is Empty...
+Simulation minute: 680
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Mariana SCHULTZ
+Patient has been treated!
+Simulation minute: 681
+The Waiting Room is Empty...
+Simulation minute: 682
+The Waiting Room is Empty...
+Simulation minute: 683
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Jazmine DAY
+Patient has been treated!
+Simulation minute: 684
+The Waiting Room is Empty...
+Simulation minute: 685
+The Waiting Room is Empty...
+Simulation minute: 686
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Bianca CURTIS
+Patient has been treated!
+Simulation minute: 687
+The Waiting Room is Empty...
+Simulation minute: 688
+The Waiting Room is Empty...
+Simulation minute: 689
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Willow KELLER
+Patient has been treated!
+Simulation minute: 690
+The Waiting Room is Empty...
+Simulation minute: 691
+The Waiting Room is Empty...
+Simulation minute: 692
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Caitlyn BARNETT
+Patient has been treated!
+Simulation minute: 693
+The Waiting Room is Empty...
+Simulation minute: 694
+The Waiting Room is Empty...
+Simulation minute: 695
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Annabella RHODES
+Patient has been treated!
+Simulation minute: 696
+The Waiting Room is Empty...
+Simulation minute: 697
+The Waiting Room is Empty...
+Simulation minute: 698
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Nina SUTTON
+Patient has been treated!
+Simulation minute: 699
+The Waiting Room is Empty...
+Simulation minute: 700
+The Waiting Room is Empty...
+Simulation minute: 701
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Guadalupe HOLT
+Patient has been treated!
+Simulation minute: 702
+The Waiting Room is Empty...
+Simulation minute: 703
+The Waiting Room is Empty...
+Simulation minute: 704
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kaelyn LYONS
+Patient has been treated!
+Simulation minute: 705
+The Waiting Room is Empty...
+Simulation minute: 706
+The Waiting Room is Empty...
+Simulation minute: 707
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kyra MANN
+Patient has been treated!
+Simulation minute: 708
+The Waiting Room is Empty...
+Simulation minute: 709
+The Waiting Room is Empty...
+Simulation minute: 710
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Raegan KLEIN
+Patient has been treated!
+Simulation minute: 711
+The Waiting Room is Empty...
+Simulation minute: 712
+The Waiting Room is Empty...
+Simulation minute: 713
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Jaelyn LE
+Patient has been treated!
+Simulation minute: 714
+The Waiting Room is Empty...
+Simulation minute: 715
+The Waiting Room is Empty...
+Simulation minute: 716
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: April LUNA
+Patient has been treated!
+Simulation minute: 717
+The Waiting Room is Empty...
+Simulation minute: 718
+The Waiting Room is Empty...
+Simulation minute: 719
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Carolina NAVARRO
+Patient has been treated!
+Simulation minute: 720
+The Waiting Room is Empty...
+Simulation minute: 721
+The Waiting Room is Empty...
+Simulation minute: 722
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Madelynn FIGUEROA
+Patient has been treated!
+Simulation minute: 723
+The Waiting Room is Empty...
+Simulation minute: 724
+The Waiting Room is Empty...
+Simulation minute: 725
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Finley ADKINS
+Patient has been treated!
+Simulation minute: 726
+The Waiting Room is Empty...
+Simulation minute: 727
+The Waiting Room is Empty...
+Simulation minute: 728
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Angie MOLINA
+Patient has been treated!
+Simulation minute: 729
+The Waiting Room is Empty...
+Simulation minute: 730
+The Waiting Room is Empty...
+Simulation minute: 731
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Brittany WOLF
+Patient has been treated!
+Simulation minute: 732
+The Waiting Room is Empty...
+Simulation minute: 733
+The Waiting Room is Empty...
+Simulation minute: 734
+The Waiting Room is Empty...
+Simulation minute: 735
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Johanna TATE
+Patient has been treated!
+Simulation minute: 736
+The Waiting Room is Empty...
+Simulation minute: 737
+The Waiting Room is Empty...
+Simulation minute: 738
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Lilian SCHROEDER
+Patient has been treated!
+Simulation minute: 739
+The Waiting Room is Empty...
+Simulation minute: 740
+The Waiting Room is Empty...
+Simulation minute: 741
+There are 1 patients in the waiting room
+Simulation minute: 742
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kassidy DELEON
+Patient has been treated!
+Simulation minute: 743
+The Waiting Room is Empty...
+Simulation minute: 744
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Brenna HARTMAN
+Patient has been treated!
+Simulation minute: 745
+The Waiting Room is Empty...
+Simulation minute: 746
+The Waiting Room is Empty...
+Simulation minute: 747
+There are 1 patients in the waiting room
+Simulation minute: 748
+There are 1 patients in the waiting room
+Simulation minute: 749
+There are 1 patients in the waiting room
+Simulation minute: 750
+There are 2 patients in the waiting room
+Simulation minute: 751
+There are 2 patients in the waiting room
+Simulation minute: 752
+There are 2 patients in the waiting room
+Simulation minute: 753
+There are 3 patients in the waiting room
+Simulation minute: 754
+There are 3 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kayden CONNER
+Patient has been treated!
+Simulation minute: 755
+There are 2 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Denise ROBLES
+Patient has been treated!
+Simulation minute: 756
+There are 2 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kimora LANG
+Patient has been treated!
+Simulation minute: 757
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Brynlee MORTON
+Patient has been treated!
+Simulation minute: 758
+The Waiting Room is Empty...
+Simulation minute: 759
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Hailee LI
+Patient has been treated!
+Simulation minute: 760
+The Waiting Room is Empty...
+Simulation minute: 761
+The Waiting Room is Empty...
+Simulation minute: 762
+There are 1 patients in the waiting room
+Simulation minute: 763
+There are 1 patients in the waiting room
+Simulation minute: 764
+There are 1 patients in the waiting room
+Simulation minute: 765
+There are 2 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Cindy MEYERS
+Patient has been treated!
+Simulation minute: 766
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Justice MORROW
+Patient has been treated!
+Simulation minute: 767
+The Waiting Room is Empty...
+Simulation minute: 768
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Aryanna CLAYTON
+Patient has been treated!
+Simulation minute: 769
+The Waiting Room is Empty...
+Simulation minute: 770
+The Waiting Room is Empty...
+Simulation minute: 771
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Aleena WHITAKER
+Patient has been treated!
+Simulation minute: 772
+The Waiting Room is Empty...
+Simulation minute: 773
+The Waiting Room is Empty...
+Simulation minute: 774
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Lea MASSEY
+Patient has been treated!
+Simulation minute: 775
+The Waiting Room is Empty...
+Simulation minute: 776
+The Waiting Room is Empty...
+Simulation minute: 777
+There are 1 patients in the waiting room
+Simulation minute: 778
+There are 1 patients in the waiting room
+Simulation minute: 779
+There are 1 patients in the waiting room
+Simulation minute: 780
+There are 2 patients in the waiting room
+Simulation minute: 781
+There are 2 patients in the waiting room
+Simulation minute: 782
+There are 2 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kaylynn KIRBY
+Patient has been treated!
+Simulation minute: 783
+There are 2 patients in the waiting room
+Simulation minute: 784
+There are 2 patients in the waiting room
+Simulation minute: 785
+There are 2 patients in the waiting room
+Simulation minute: 786
+There are 3 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: June CHRISTIAN
+Patient has been treated!
+Simulation minute: 787
+There are 2 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Rihanna BOONE
+Patient has been treated!
+Simulation minute: 788
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Saniya GATES
+Patient has been treated!
+Simulation minute: 789
+There are 1 patients in the waiting room
+Simulation minute: 790
+There are 1 patients in the waiting room
+Simulation minute: 791
+There are 1 patients in the waiting room
+Simulation minute: 792
+There are 2 patients in the waiting room
+Simulation minute: 793
+There are 2 patients in the waiting room
+Simulation minute: 794
+There are 2 patients in the waiting room
+Simulation minute: 795
+There are 3 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Sherlyn CALLAHAN
+Patient has been treated!
+Simulation minute: 796
+There are 2 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Raelynn GRIMES
+Patient has been treated!
+Simulation minute: 797
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Joslyn KANE
+Patient has been treated!
+Simulation minute: 798
+The Waiting Room is Empty...
+Simulation minute: 799
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Lailah HUTCHINSON
+Patient has been treated!
+Simulation minute: 800
+The Waiting Room is Empty...
+Simulation minute: 801
+The Waiting Room is Empty...
+Simulation minute: 802
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: America HOBBS
+Patient has been treated!
+Simulation minute: 803
+The Waiting Room is Empty...
+Simulation minute: 804
+The Waiting Room is Empty...
+Simulation minute: 805
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Lilianna HENSON
+Patient has been treated!
+Simulation minute: 806
+The Waiting Room is Empty...
+Simulation minute: 807
+The Waiting Room is Empty...
+Simulation minute: 808
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Keyla BEASLEY
+Patient has been treated!
+Simulation minute: 809
+The Waiting Room is Empty...
+Simulation minute: 810
+The Waiting Room is Empty...
+Simulation minute: 811
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Taliyah STAFFORD
+Patient has been treated!
+Simulation minute: 812
+The Waiting Room is Empty...
+Simulation minute: 813
+The Waiting Room is Empty...
+Simulation minute: 814
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Paloma KEMP
+Patient has been treated!
+Simulation minute: 815
+The Waiting Room is Empty...
+Simulation minute: 816
+The Waiting Room is Empty...
+Simulation minute: 817
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Destinee MCCULLOUGH
+Patient has been treated!
+Simulation minute: 818
+The Waiting Room is Empty...
+Simulation minute: 819
+The Waiting Room is Empty...
+Simulation minute: 820
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Zara STRONG
+Patient has been treated!
+Simulation minute: 821
+The Waiting Room is Empty...
+Simulation minute: 822
+The Waiting Room is Empty...
+Simulation minute: 823
+There are 1 patients in the waiting room
+Simulation minute: 824
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Alena ODONNELL
+Patient has been treated!
+Simulation minute: 825
+The Waiting Room is Empty...
+Simulation minute: 826
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Karissa BUCK
+Patient has been treated!
+Simulation minute: 827
+The Waiting Room is Empty...
+Simulation minute: 828
+The Waiting Room is Empty...
+Simulation minute: 829
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kaiya SEXTON
+Patient has been treated!
+Simulation minute: 830
+The Waiting Room is Empty...
+Simulation minute: 831
+The Waiting Room is Empty...
+Simulation minute: 832
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Gisselle CALHOUN
+Patient has been treated!
+Simulation minute: 833
+The Waiting Room is Empty...
+Simulation minute: 834
+The Waiting Room is Empty...
+Simulation minute: 835
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Ivanna LEBLANC
+Patient has been treated!
+Simulation minute: 836
+The Waiting Room is Empty...
+Simulation minute: 837
+The Waiting Room is Empty...
+Simulation minute: 838
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Deborah MCINTOSH
+Patient has been treated!
+Simulation minute: 839
+The Waiting Room is Empty...
+Simulation minute: 840
+The Waiting Room is Empty...
+Simulation minute: 841
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Alisha CONRAD
+Patient has been treated!
+Simulation minute: 842
+The Waiting Room is Empty...
+Simulation minute: 843
+The Waiting Room is Empty...
+Simulation minute: 844
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Tianna PECK
+Patient has been treated!
+Simulation minute: 845
+The Waiting Room is Empty...
+Simulation minute: 846
+The Waiting Room is Empty...
+Simulation minute: 847
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Karlie PINEDA
+Patient has been treated!
+Simulation minute: 848
+The Waiting Room is Empty...
+Simulation minute: 849
+The Waiting Room is Empty...
+Simulation minute: 850
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Chana EVERETT
+Patient has been treated!
+Simulation minute: 851
+The Waiting Room is Empty...
+Simulation minute: 852
+The Waiting Room is Empty...
+Simulation minute: 853
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Livia BLACKBURN
+Patient has been treated!
+Simulation minute: 854
+The Waiting Room is Empty...
+Simulation minute: 855
+The Waiting Room is Empty...
+Simulation minute: 856
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Cailyn MEZA
+Patient has been treated!
+Simulation minute: 857
+The Waiting Room is Empty...
+Simulation minute: 858
+The Waiting Room is Empty...
+Simulation minute: 859
+There are 1 patients in the waiting room
+Simulation minute: 860
+There are 2 patients in the waiting room
+Simulation minute: 861
+There are 2 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kirsten TAPIA
+Patient has been treated!
+Simulation minute: 862
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Alayah FARLEY
+Patient has been treated!
+Simulation minute: 863
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Ashlee MOSES
+Patient has been treated!
+Simulation minute: 864
+The Waiting Room is Empty...
+Simulation minute: 865
+The Waiting Room is Empty...
+Simulation minute: 866
+There are 1 patients in the waiting room
+Simulation minute: 867
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Millie BENJAMIN
+Patient has been treated!
+Simulation minute: 868
+The Waiting Room is Empty...
+Simulation minute: 869
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kyndall HAYDEN
+Patient has been treated!
+Simulation minute: 870
+The Waiting Room is Empty...
+Simulation minute: 871
+The Waiting Room is Empty...
+Simulation minute: 872
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Neveah SANFORD
+Patient has been treated!
+Simulation minute: 873
+The Waiting Room is Empty...
+Simulation minute: 874
+The Waiting Room is Empty...
+Simulation minute: 875
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Lizeth SCHMITT
+Patient has been treated!
+Simulation minute: 876
+The Waiting Room is Empty...
+Simulation minute: 877
+The Waiting Room is Empty...
+Simulation minute: 878
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kaelynn MATA
+Patient has been treated!
+Simulation minute: 879
+The Waiting Room is Empty...
+Simulation minute: 880
+The Waiting Room is Empty...
+Simulation minute: 881
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Emersyn VILLEGAS
+Patient has been treated!
+Simulation minute: 882
+The Waiting Room is Empty...
+Simulation minute: 883
+The Waiting Room is Empty...
+Simulation minute: 884
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Nathalia MADDEN
+Patient has been treated!
+Simulation minute: 885
+The Waiting Room is Empty...
+Simulation minute: 886
+The Waiting Room is Empty...
+Simulation minute: 887
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Arya POLLARD
+Patient has been treated!
+Simulation minute: 888
+The Waiting Room is Empty...
+Simulation minute: 889
+The Waiting Room is Empty...
+Simulation minute: 890
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Anabel TERRELL
+Patient has been treated!
+Simulation minute: 891
+The Waiting Room is Empty...
+Simulation minute: 892
+The Waiting Room is Empty...
+Simulation minute: 893
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Micaela HATFIELD
+Patient has been treated!
+Simulation minute: 894
+The Waiting Room is Empty...
+Simulation minute: 895
+The Waiting Room is Empty...
+Simulation minute: 896
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Lorena FRITZ
+Patient has been treated!
+Simulation minute: 897
+The Waiting Room is Empty...
+Simulation minute: 898
+The Waiting Room is Empty...
+Simulation minute: 899
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Jaslene HANEY
+Patient has been treated!
+Simulation minute: 900
+The Waiting Room is Empty...
+Simulation minute: 901
+The Waiting Room is Empty...
+Simulation minute: 902
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Amiah FORBES
+Patient has been treated!
+Simulation minute: 903
+The Waiting Room is Empty...
+Simulation minute: 904
+The Waiting Room is Empty...
+Simulation minute: 905
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Savanah MURILLO
+Patient has been treated!
+Simulation minute: 906
+The Waiting Room is Empty...
+Simulation minute: 907
+The Waiting Room is Empty...
+Simulation minute: 908
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: William JONES
+Patient has been treated!
+Simulation minute: 909
+The Waiting Room is Empty...
+Simulation minute: 910
+The Waiting Room is Empty...
+Simulation minute: 911
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: David HERNANDEZ
+Patient has been treated!
+Simulation minute: 912
+The Waiting Room is Empty...
+Simulation minute: 913
+The Waiting Room is Empty...
+Simulation minute: 914
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Jackson CLARK
+Patient has been treated!
+Simulation minute: 915
+The Waiting Room is Empty...
+Simulation minute: 916
+The Waiting Room is Empty...
+Simulation minute: 917
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Lucas KING
+Patient has been treated!
+Simulation minute: 918
+The Waiting Room is Empty...
+Simulation minute: 919
+The Waiting Room is Empty...
+Simulation minute: 920
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Jack MITCHELL
+Patient has been treated!
+Simulation minute: 921
+The Waiting Room is Empty...
+Simulation minute: 922
+The Waiting Room is Empty...
+Simulation minute: 923
+The Waiting Room is Empty...
+Simulation minute: 924
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kevin MURPHY
+Patient has been treated!
+Simulation minute: 925
+The Waiting Room is Empty...
+Simulation minute: 926
+The Waiting Room is Empty...
+Simulation minute: 927
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Henry BELL
+Patient has been treated!
+Simulation minute: 928
+The Waiting Room is Empty...
+Simulation minute: 929
+The Waiting Room is Empty...
+Simulation minute: 930
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Josiah BROOKS
+Patient has been treated!
+Simulation minute: 931
+The Waiting Room is Empty...
+Simulation minute: 932
+The Waiting Room is Empty...
+Simulation minute: 933
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Blake FOSTER
+Patient has been treated!
+Simulation minute: 934
+The Waiting Room is Empty...
+Simulation minute: 935
+The Waiting Room is Empty...
+Simulation minute: 936
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Bryan PERRY
+Patient has been treated!
+Simulation minute: 937
+The Waiting Room is Empty...
+Simulation minute: 938
+The Waiting Room is Empty...
+Simulation minute: 939
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kaden REYNOLDS
+Patient has been treated!
+Simulation minute: 940
+The Waiting Room is Empty...
+Simulation minute: 941
+The Waiting Room is Empty...
+Simulation minute: 942
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Jake COLE
+Patient has been treated!
+Simulation minute: 943
+The Waiting Room is Empty...
+Simulation minute: 944
+The Waiting Room is Empty...
+Simulation minute: 945
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Ashton OWENS
+Patient has been treated!
+Simulation minute: 946
+The Waiting Room is Empty...
+Simulation minute: 947
+The Waiting Room is Empty...
+Simulation minute: 948
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Edward OLSON
+Patient has been treated!
+Simulation minute: 949
+The Waiting Room is Empty...
+Simulation minute: 950
+The Waiting Room is Empty...
+Simulation minute: 951
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Jace CRAWFORD
+Patient has been treated!
+Simulation minute: 952
+The Waiting Room is Empty...
+Simulation minute: 953
+The Waiting Room is Empty...
+Simulation minute: 954
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Grant HICKS
+Patient has been treated!
+Simulation minute: 955
+The Waiting Room is Empty...
+Simulation minute: 956
+The Waiting Room is Empty...
+Simulation minute: 957
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Seth MILLS
+Patient has been treated!
+Simulation minute: 958
+The Waiting Room is Empty...
+Simulation minute: 959
+The Waiting Room is Empty...
+Simulation minute: 960
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Omar HERRERA
+Patient has been treated!
+Simulation minute: 961
+The Waiting Room is Empty...
+Simulation minute: 962
+The Waiting Room is Empty...
+Simulation minute: 963
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Roman DUNN
+Patient has been treated!
+Simulation minute: 964
+The Waiting Room is Empty...
+Simulation minute: 965
+The Waiting Room is Empty...
+Simulation minute: 966
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Ricardo HOFFMAN
+Patient has been treated!
+Simulation minute: 967
+The Waiting Room is Empty...
+Simulation minute: 968
+The Waiting Room is Empty...
+Simulation minute: 969
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Tucker ARMSTRONG
+Patient has been treated!
+Simulation minute: 970
+The Waiting Room is Empty...
+Simulation minute: 971
+The Waiting Room is Empty...
+Simulation minute: 972
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kingston SILVA
+Patient has been treated!
+Simulation minute: 973
+The Waiting Room is Empty...
+Simulation minute: 974
+The Waiting Room is Empty...
+Simulation minute: 975
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Weston LARSON
+Patient has been treated!
+Simulation minute: 976
+The Waiting Room is Empty...
+Simulation minute: 977
+The Waiting Room is Empty...
+Simulation minute: 978
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Harrison OBRIEN
+Patient has been treated!
+Simulation minute: 979
+The Waiting Room is Empty...
+Simulation minute: 980
+The Waiting Room is Empty...
+Simulation minute: 981
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Charlie JENSEN
+Patient has been treated!
+Simulation minute: 982
+The Waiting Room is Empty...
+Simulation minute: 983
+The Waiting Room is Empty...
+Simulation minute: 984
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Myles GARRETT
+Patient has been treated!
+Simulation minute: 985
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Rafael SOTO
+Patient has been treated!
+Simulation minute: 986
+The Waiting Room is Empty...
+Simulation minute: 987
+The Waiting Room is Empty...
+Simulation minute: 988
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Ty FOWLER
+Patient has been treated!
+Simulation minute: 989
+The Waiting Room is Empty...
+Simulation minute: 990
+The Waiting Room is Empty...
+Simulation minute: 991
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Quinn HOLLAND
+Patient has been treated!
+Simulation minute: 992
+The Waiting Room is Empty...
+Simulation minute: 993
+The Waiting Room is Empty...
+Simulation minute: 994
+There are 1 patients in the waiting room
+Simulation minute: 995
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Jasper DOUGLAS
+Patient has been treated!
+Simulation minute: 996
+The Waiting Room is Empty...
+Simulation minute: 997
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Ruben ORTEGA
+Patient has been treated!
+Simulation minute: 998
+The Waiting Room is Empty...
+Simulation minute: 999
+The Waiting Room is Empty...
+Simulation minute: 1000
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Brock NUNEZ
+Patient has been treated!
+Simulation minute: 1001
+The Waiting Room is Empty...
+Simulation minute: 1002
+The Waiting Room is Empty...
+Simulation minute: 1003
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Elliott BECKER
+Patient has been treated!
+Simulation minute: 1004
+The Waiting Room is Empty...
+Simulation minute: 1005
+The Waiting Room is Empty...
+Simulation minute: 1006
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Leland BARKER
+Patient has been treated!
+Simulation minute: 1007
+The Waiting Room is Empty...
+Simulation minute: 1008
+The Waiting Room is Empty...
+Simulation minute: 1009
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Julius HORTON
+Patient has been treated!
+Simulation minute: 1010
+The Waiting Room is Empty...
+Simulation minute: 1011
+The Waiting Room is Empty...
+Simulation minute: 1012
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Keith PADILLA
+Patient has been treated!
+Simulation minute: 1013
+The Waiting Room is Empty...
+Simulation minute: 1014
+The Waiting Room is Empty...
+Simulation minute: 1015
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Phillip DAWSON
+Patient has been treated!
+Simulation minute: 1016
+The Waiting Room is Empty...
+Simulation minute: 1017
+The Waiting Room is Empty...
+Simulation minute: 1018
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Brycen ROBBINS
+Patient has been treated!
+Simulation minute: 1019
+The Waiting Room is Empty...
+Simulation minute: 1020
+The Waiting Room is Empty...
+Simulation minute: 1021
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Marshall HARDY
+Patient has been treated!
+Simulation minute: 1022
+The Waiting Room is Empty...
+Simulation minute: 1023
+The Waiting Room is Empty...
+Simulation minute: 1024
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kade DENNIS
+Patient has been treated!
+Simulation minute: 1025
+The Waiting Room is Empty...
+Simulation minute: 1026
+The Waiting Room is Empty...
+Simulation minute: 1027
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Tate RODGERS
+Patient has been treated!
+Simulation minute: 1028
+The Waiting Room is Empty...
+Simulation minute: 1029
+The Waiting Room is Empty...
+Simulation minute: 1030
+There are 1 patients in the waiting room
+Simulation minute: 1031
+There are 1 patients in the waiting room
+Simulation minute: 1032
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Zackary MCGEE
+Patient has been treated!
+Simulation minute: 1033
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Cullen POTTER
+Patient has been treated!
+Simulation minute: 1034
+The Waiting Room is Empty...
+Simulation minute: 1035
+The Waiting Room is Empty...
+Simulation minute: 1036
+There are 1 patients in the waiting room
+Simulation minute: 1037
+There are 1 patients in the waiting room
+Simulation minute: 1038
+There are 1 patients in the waiting room
+Simulation minute: 1039
+There are 2 patients in the waiting room
+Simulation minute: 1040
+There are 2 patients in the waiting room
+Simulation minute: 1041
+There are 2 patients in the waiting room
+Simulation minute: 1042
+There are 3 patients in the waiting room
+Simulation minute: 1043
+There are 3 patients in the waiting room
+Simulation minute: 1044
+There are 3 patients in the waiting room
+Simulation minute: 1045
+There are 4 patients in the waiting room
+Simulation minute: 1046
+There are 4 patients in the waiting room
+Simulation minute: 1047
+There are 4 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Davis TODD
+Patient has been treated!
+Simulation minute: 1048
+There are 3 patients in the waiting room
+Simulation minute: 1049
+There are 4 patients in the waiting room
+Simulation minute: 1050
+There are 4 patients in the waiting room
+Simulation minute: 1051
+There are 4 patients in the waiting room
+Simulation minute: 1052
+There are 5 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Nikolas PARSONS
+Patient has been treated!
+Simulation minute: 1053
+There are 4 patients in the waiting room
+Simulation minute: 1054
+There are 4 patients in the waiting room
+Simulation minute: 1055
+There are 5 patients in the waiting room
+Simulation minute: 1056
+There are 5 patients in the waiting room
+Simulation minute: 1057
+There are 5 patients in the waiting room
+Simulation minute: 1058
+There are 6 patients in the waiting room
+Simulation minute: 1059
+There are 6 patients in the waiting room
+Simulation minute: 1060
+There are 6 patients in the waiting room
+Simulation minute: 1061
+There are 7 patients in the waiting room
+Simulation minute: 1062
+There are 7 patients in the waiting room
+Simulation minute: 1063
+There are 7 patients in the waiting room
+Simulation minute: 1064
+There are 8 patients in the waiting room
+Simulation minute: 1065
+There are 8 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Douglas NORTON
+Patient has been treated!
+Simulation minute: 1066
+There are 7 patients in the waiting room
+Simulation minute: 1067
+There are 8 patients in the waiting room
+Simulation minute: 1068
+There are 8 patients in the waiting room
+Simulation minute: 1069
+There are 8 patients in the waiting room
+Simulation minute: 1070
+There are 9 patients in the waiting room
+Simulation minute: 1071
+There are 9 patients in the waiting room
+Simulation minute: 1072
+There are 9 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Orion BOWERS
+Patient has been treated!
+Simulation minute: 1073
+There are 9 patients in the waiting room
+Simulation minute: 1074
+There are 9 patients in the waiting room
+Simulation minute: 1075
+There are 9 patients in the waiting room
+Simulation minute: 1076
+There are 10 patients in the waiting room
+Simulation minute: 1077
+There are 10 patients in the waiting room
+Simulation minute: 1078
+There are 10 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Noe NICHOLSON
+Patient has been treated!
+Simulation minute: 1079
+There are 10 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Maximilian GALLAGHER
+Patient has been treated!
+Simulation minute: 1080
+There are 9 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Enzo CARRILLO
+Patient has been treated!
+Simulation minute: 1081
+There are 8 patients in the waiting room
+Simulation minute: 1082
+There are 9 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Pierce CLARKE
+Patient has been treated!
+Simulation minute: 1083
+There are 8 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Terry MCBRIDE
+Patient has been treated!
+Simulation minute: 1084
+There are 7 patients in the waiting room
+Simulation minute: 1085
+There are 8 patients in the waiting room
+Simulation minute: 1086
+There are 8 patients in the waiting room
+Simulation minute: 1087
+There are 8 patients in the waiting room
+Simulation minute: 1088
+There are 9 patients in the waiting room
+Simulation minute: 1089
+There are 9 patients in the waiting room
+Simulation minute: 1090
+There are 9 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kole BRUCE
+Patient has been treated!
+Simulation minute: 1091
+There are 9 patients in the waiting room
+Simulation minute: 1092
+There are 9 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Marlon BOND
+Patient has been treated!
+Simulation minute: 1093
+There are 8 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Amare SHAFFER
+Patient has been treated!
+Simulation minute: 1094
+There are 8 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Adriel SHEPHERD
+Patient has been treated!
+Simulation minute: 1095
+There are 7 patients in the waiting room
+Simulation minute: 1096
+There are 7 patients in the waiting room
+Simulation minute: 1097
+There are 8 patients in the waiting room
+Simulation minute: 1098
+There are 8 patients in the waiting room
+Simulation minute: 1099
+There are 8 patients in the waiting room
+Simulation minute: 1100
+There are 9 patients in the waiting room
+Simulation minute: 1101
+There are 9 patients in the waiting room
+Simulation minute: 1102
+There are 9 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Alvin CABRERA
+Patient has been treated!
+Simulation minute: 1103
+There are 9 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Finnegan MCKENZIE
+Patient has been treated!
+Simulation minute: 1104
+There are 8 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Ulises GUERRA
+Patient has been treated!
+Simulation minute: 1105
+There are 7 patients in the waiting room
+Simulation minute: 1106
+There are 8 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Santino MCDOWELL
+Patient has been treated!
+Simulation minute: 1107
+There are 7 patients in the waiting room
+Simulation minute: 1108
+There are 7 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Atticus HUFF
+Patient has been treated!
+Simulation minute: 1109
+There are 7 patients in the waiting room
+Simulation minute: 1110
+There are 8 patients in the waiting room
+Simulation minute: 1111
+There are 8 patients in the waiting room
+Simulation minute: 1112
+There are 8 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Craig KHAN
+Patient has been treated!
+Simulation minute: 1113
+There are 8 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Jadon PITTMAN
+Patient has been treated!
+Simulation minute: 1114
+There are 7 patients in the waiting room
+Simulation minute: 1115
+There are 7 patients in the waiting room
+Simulation minute: 1116
+There are 8 patients in the waiting room
+Simulation minute: 1117
+There are 8 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Tommy HORN
+Patient has been treated!
+Simulation minute: 1118
+There are 7 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Jessie VILLARREAL
+Patient has been treated!
+Simulation minute: 1119
+There are 7 patients in the waiting room
+Simulation minute: 1120
+There are 7 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Will BOYER
+Patient has been treated!
+Simulation minute: 1121
+There are 6 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Willie PARRISH
+Patient has been treated!
+Simulation minute: 1122
+There are 6 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Marquis BRENNAN
+Patient has been treated!
+Simulation minute: 1123
+There are 5 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Ray IBARRA
+Patient has been treated!
+Simulation minute: 1124
+There are 4 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Alexzander TANNER
+Patient has been treated!
+Simulation minute: 1125
+There are 4 patients in the waiting room
+Simulation minute: 1126
+There are 4 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Tyrone LEACH
+Patient has been treated!
+Simulation minute: 1127
+There are 3 patients in the waiting room
+Simulation minute: 1128
+There are 4 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Stanley MACDONALD
+Patient has been treated!
+Simulation minute: 1129
+There are 3 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Clark KLINE
+Patient has been treated!
+Simulation minute: 1130
+There are 2 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Lamar ROACH
+Patient has been treated!
+Simulation minute: 1131
+There are 2 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Luka KNOX
+Patient has been treated!
+Simulation minute: 1132
+There are 1 patients in the waiting room
+Simulation minute: 1133
+There are 1 patients in the waiting room
+Simulation minute: 1134
+There are 2 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Nikolai KENT
+Patient has been treated!
+Simulation minute: 1135
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Beckham SLOAN
+Patient has been treated!
+Simulation minute: 1136
+The Waiting Room is Empty...
+Simulation minute: 1137
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Bruno HARDIN
+Patient has been treated!
+Simulation minute: 1138
+The Waiting Room is Empty...
+Simulation minute: 1139
+The Waiting Room is Empty...
+Simulation minute: 1140
+There are 1 patients in the waiting room
+Simulation minute: 1141
+There are 1 patients in the waiting room
+Simulation minute: 1142
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Heath DORSEY
+Patient has been treated!
+Simulation minute: 1143
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Bode SCHAEFER
+Patient has been treated!
+Simulation minute: 1144
+The Waiting Room is Empty...
+Simulation minute: 1145
+The Waiting Room is Empty...
+Simulation minute: 1146
+There are 1 patients in the waiting room
+Simulation minute: 1147
+There are 1 patients in the waiting room
+Simulation minute: 1148
+There are 1 patients in the waiting room
+Simulation minute: 1149
+There are 2 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kolten MCFARLAND
+Patient has been treated!
+Simulation minute: 1150
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Coleman RANDOLPH
+Patient has been treated!
+Simulation minute: 1151
+The Waiting Room is Empty...
+Simulation minute: 1152
+There are 1 patients in the waiting room
+Simulation minute: 1153
+There are 1 patients in the waiting room
+Simulation minute: 1154
+There are 1 patients in the waiting room
+Simulation minute: 1155
+There are 2 patients in the waiting room
+Simulation minute: 1156
+There are 2 patients in the waiting room
+Simulation minute: 1157
+There are 2 patients in the waiting room
+Simulation minute: 1158
+There are 3 patients in the waiting room
+Simulation minute: 1159
+There are 3 patients in the waiting room
+Simulation minute: 1160
+There are 3 patients in the waiting room
+Simulation minute: 1161
+There are 4 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Freddy BOYLE
+Patient has been treated!
+Simulation minute: 1162
+There are 3 patients in the waiting room
+Simulation minute: 1163
+There are 3 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Gilbert SHAH
+Patient has been treated!
+Simulation minute: 1164
+There are 3 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Konnor AYERS
+Patient has been treated!
+Simulation minute: 1165
+There are 2 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Ishaan HAHN
+Patient has been treated!
+Simulation minute: 1166
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Agustin HERRING
+Patient has been treated!
+Simulation minute: 1167
+There are 1 patients in the waiting room
+Simulation minute: 1168
+There are 1 patients in the waiting room
+Simulation minute: 1169
+There are 1 patients in the waiting room
+Simulation minute: 1170
+There are 2 patients in the waiting room
+Simulation minute: 1171
+There are 2 patients in the waiting room
+Simulation minute: 1172
+There are 2 patients in the waiting room
+Simulation minute: 1173
+There are 2 patients in the waiting room
+Simulation minute: 1174
+There are 3 patients in the waiting room
+Simulation minute: 1175
+There are 3 patients in the waiting room
+Simulation minute: 1176
+There are 3 patients in the waiting room
+Simulation minute: 1177
+There are 4 patients in the waiting room
+Simulation minute: 1178
+There are 4 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Callum BENTON
+Patient has been treated!
+Simulation minute: 1179
+There are 3 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Izayah HUBER
+Patient has been treated!
+Simulation minute: 1180
+There are 3 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Remy YU
+Patient has been treated!
+Simulation minute: 1181
+There are 2 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Aedan MAYNARD
+Patient has been treated!
+Simulation minute: 1182
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Jadyn COFFEY
+Patient has been treated!
+Simulation minute: 1183
+There are 1 patients in the waiting room
+Simulation minute: 1184
+There are 1 patients in the waiting room
+Simulation minute: 1185
+There are 1 patients in the waiting room
+Simulation minute: 1186
+There are 2 patients in the waiting room
+Simulation minute: 1187
+There are 2 patients in the waiting room
+Simulation minute: 1188
+There are 2 patients in the waiting room
+Simulation minute: 1189
+There are 3 patients in the waiting room
+Simulation minute: 1190
+There are 3 patients in the waiting room
+Simulation minute: 1191
+There are 3 patients in the waiting room
+Simulation minute: 1192
+There are 4 patients in the waiting room
+Simulation minute: 1193
+There are 4 patients in the waiting room
+Simulation minute: 1194
+There are 4 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Jayvion MCPHERSON
+Patient has been treated!
+Simulation minute: 1195
+There are 4 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Jakobe HENDRIX
+Patient has been treated!
+Simulation minute: 1196
+There are 3 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Jaydin CORDOVA
+Patient has been treated!
+Simulation minute: 1197
+There are 2 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Devyn BRAY
+Patient has been treated!
+Simulation minute: 1198
+There are 2 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Lennox PETTY
+Patient has been treated!
+Simulation minute: 1199
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Camdyn DUKE
+Patient has been treated!
+Simulation minute: 1200
+The Waiting Room is Empty...
+Simulation minute: 1201
+There are 1 patients in the waiting room
+Simulation minute: 1202
+There are 1 patients in the waiting room
+Simulation minute: 1203
+There are 1 patients in the waiting room
+Simulation minute: 1204
+There are 2 patients in the waiting room
+Simulation minute: 1205
+There are 2 patients in the waiting room
+Simulation minute: 1206
+There are 2 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Eliot HINTON
+Patient has been treated!
+Simulation minute: 1207
+There are 2 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Masen VANG
+Patient has been treated!
+Simulation minute: 1208
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kingsley FREY
+Patient has been treated!
+Simulation minute: 1209
+The Waiting Room is Empty...
+Simulation minute: 1210
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Slade OSBORN
+Patient has been treated!
+Simulation minute: 1211
+The Waiting Room is Empty...
+Simulation minute: 1212
+The Waiting Room is Empty...
+Simulation minute: 1213
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Sophia JOHNSON
+Patient has been treated!
+Simulation minute: 1214
+The Waiting Room is Empty...
+Simulation minute: 1215
+The Waiting Room is Empty...
+Simulation minute: 1216
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Elizabeth ANDERSON
+Patient has been treated!
+Simulation minute: 1217
+The Waiting Room is Empty...
+Simulation minute: 1218
+The Waiting Room is Empty...
+Simulation minute: 1219
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Hannah LEE
+Patient has been treated!
+Simulation minute: 1220
+The Waiting Room is Empty...
+Simulation minute: 1221
+The Waiting Room is Empty...
+Simulation minute: 1222
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Victoria ALLEN
+Patient has been treated!
+Simulation minute: 1223
+The Waiting Room is Empty...
+Simulation minute: 1224
+The Waiting Room is Empty...
+Simulation minute: 1225
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Amelia HILL
+Patient has been treated!
+Simulation minute: 1226
+The Waiting Room is Empty...
+Simulation minute: 1227
+The Waiting Room is Empty...
+Simulation minute: 1228
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Peyton PARKER
+Patient has been treated!
+Simulation minute: 1229
+The Waiting Room is Empty...
+Simulation minute: 1230
+The Waiting Room is Empty...
+Simulation minute: 1231
+There are 1 patients in the waiting room
+Simulation minute: 1232
+There are 1 patients in the waiting room
+Simulation minute: 1233
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Camila ROGERS
+Patient has been treated!
+Simulation minute: 1234
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Destiny WARD
+Patient has been treated!
+Simulation minute: 1235
+The Waiting Room is Empty...
+Simulation minute: 1236
+The Waiting Room is Empty...
+Simulation minute: 1237
+The Waiting Room is Empty...
+Simulation minute: 1238
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Serenity PRICE
+Patient has been treated!
+Simulation minute: 1239
+The Waiting Room is Empty...
+Simulation minute: 1240
+The Waiting Room is Empty...
+Simulation minute: 1241
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Valeria ORTIZ
+Patient has been treated!
+Simulation minute: 1242
+The Waiting Room is Empty...
+Simulation minute: 1243
+The Waiting Room is Empty...
+Simulation minute: 1244
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Ellie PATTERSON
+Patient has been treated!
+Simulation minute: 1245
+The Waiting Room is Empty...
+Simulation minute: 1246
+The Waiting Room is Empty...
+Simulation minute: 1247
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Ruby WALLACE
+Patient has been treated!
+Simulation minute: 1248
+The Waiting Room is Empty...
+Simulation minute: 1249
+The Waiting Room is Empty...
+Simulation minute: 1250
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Violet MURRAY
+Patient has been treated!
+Simulation minute: 1251
+The Waiting Room is Empty...
+Simulation minute: 1252
+The Waiting Room is Empty...
+Simulation minute: 1253
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kendall WOODS
+Patient has been treated!
+Simulation minute: 1254
+The Waiting Room is Empty...
+Simulation minute: 1255
+The Waiting Room is Empty...
+Simulation minute: 1256
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Aliyah VASQUEZ
+Patient has been treated!
+Simulation minute: 1257
+The Waiting Room is Empty...
+Simulation minute: 1258
+The Waiting Room is Empty...
+Simulation minute: 1259
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Valentina WAGNER
+Patient has been treated!
+Simulation minute: 1260
+The Waiting Room is Empty...
+Simulation minute: 1261
+The Waiting Room is Empty...
+Simulation minute: 1262
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Hayden STONE
+Patient has been treated!
+Simulation minute: 1263
+The Waiting Room is Empty...
+Simulation minute: 1264
+The Waiting Room is Empty...
+Simulation minute: 1265
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Alice PATEL
+Patient has been treated!
+Simulation minute: 1266
+The Waiting Room is Empty...
+Simulation minute: 1267
+The Waiting Room is Empty...
+Simulation minute: 1268
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Margaret GARDNER
+Patient has been treated!
+Simulation minute: 1269
+The Waiting Room is Empty...
+Simulation minute: 1270
+The Waiting Room is Empty...
+Simulation minute: 1271
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Brielle GRANT
+Patient has been treated!
+Simulation minute: 1272
+The Waiting Room is Empty...
+Simulation minute: 1273
+The Waiting Room is Empty...
+Simulation minute: 1274
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Makenna CARROLL
+Patient has been treated!
+Simulation minute: 1275
+The Waiting Room is Empty...
+Simulation minute: 1276
+The Waiting Room is Empty...
+Simulation minute: 1277
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Lola CARPENTER
+Patient has been treated!
+Simulation minute: 1278
+The Waiting Room is Empty...
+Simulation minute: 1279
+The Waiting Room is Empty...
+Simulation minute: 1280
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Tessa VARGAS
+Patient has been treated!
+Simulation minute: 1281
+The Waiting Room is Empty...
+Simulation minute: 1282
+The Waiting Room is Empty...
+Simulation minute: 1283
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kinley MORRISON
+Patient has been treated!
+Simulation minute: 1284
+The Waiting Room is Empty...
+Simulation minute: 1285
+The Waiting Room is Empty...
+Simulation minute: 1286
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Lexi AUSTIN
+Patient has been treated!
+Simulation minute: 1287
+The Waiting Room is Empty...
+Simulation minute: 1288
+The Waiting Room is Empty...
+Simulation minute: 1289
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Alondra DEAN
+Patient has been treated!
+Simulation minute: 1290
+The Waiting Room is Empty...
+Simulation minute: 1291
+The Waiting Room is Empty...
+Simulation minute: 1292
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Josie CHEN
+Patient has been treated!
+Simulation minute: 1293
+The Waiting Room is Empty...
+Simulation minute: 1294
+The Waiting Room is Empty...
+Simulation minute: 1295
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Fatima MAY
+Patient has been treated!
+Simulation minute: 1296
+The Waiting Room is Empty...
+Simulation minute: 1297
+The Waiting Room is Empty...
+Simulation minute: 1298
+The Waiting Room is Empty...
+Simulation minute: 1299
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Esmeralda VALDEZ
+Patient has been treated!
+Simulation minute: 1300
+The Waiting Room is Empty...
+Simulation minute: 1301
+The Waiting Room is Empty...
+Simulation minute: 1302
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Maddison BATES
+Patient has been treated!
+Simulation minute: 1303
+The Waiting Room is Empty...
+Simulation minute: 1304
+The Waiting Room is Empty...
+Simulation minute: 1305
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Heidi LAMBERT
+Patient has been treated!
+Simulation minute: 1306
+The Waiting Room is Empty...
+Simulation minute: 1307
+The Waiting Room is Empty...
+Simulation minute: 1308
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Emery GREGORY
+Patient has been treated!
+Simulation minute: 1309
+The Waiting Room is Empty...
+Simulation minute: 1310
+The Waiting Room is Empty...
+Simulation minute: 1311
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Adeline PARKS
+Patient has been treated!
+Simulation minute: 1312
+The Waiting Room is Empty...
+Simulation minute: 1313
+The Waiting Room is Empty...
+Simulation minute: 1314
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Madilyn BENSON
+Patient has been treated!
+Simulation minute: 1315
+The Waiting Room is Empty...
+Simulation minute: 1316
+The Waiting Room is Empty...
+Simulation minute: 1317
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Fernanda MILES
+Patient has been treated!
+Simulation minute: 1318
+The Waiting Room is Empty...
+Simulation minute: 1319
+The Waiting Room is Empty...
+Simulation minute: 1320
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Janiyah FLETCHER
+Patient has been treated!
+Simulation minute: 1321
+The Waiting Room is Empty...
+Simulation minute: 1322
+The Waiting Room is Empty...
+Simulation minute: 1323
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Madalyn BALDWIN
+Patient has been treated!
+Simulation minute: 1324
+The Waiting Room is Empty...
+Simulation minute: 1325
+The Waiting Room is Empty...
+Simulation minute: 1326
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Juliette SHARP
+Patient has been treated!
+Simulation minute: 1327
+The Waiting Room is Empty...
+Simulation minute: 1328
+The Waiting Room is Empty...
+Simulation minute: 1329
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kailey DANIEL
+Patient has been treated!
+Simulation minute: 1330
+The Waiting Room is Empty...
+Simulation minute: 1331
+The Waiting Room is Empty...
+Simulation minute: 1332
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kaylie DOYLE
+Patient has been treated!
+Simulation minute: 1333
+The Waiting Room is Empty...
+Simulation minute: 1334
+The Waiting Room is Empty...
+Simulation minute: 1335
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Lindsey PAUL
+Patient has been treated!
+Simulation minute: 1336
+The Waiting Room is Empty...
+Simulation minute: 1337
+The Waiting Room is Empty...
+Simulation minute: 1338
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Melany CURRY
+Patient has been treated!
+Simulation minute: 1339
+The Waiting Room is Empty...
+Simulation minute: 1340
+The Waiting Room is Empty...
+Simulation minute: 1341
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Estrella CAMPOS
+Patient has been treated!
+Simulation minute: 1342
+The Waiting Room is Empty...
+Simulation minute: 1343
+The Waiting Room is Empty...
+Simulation minute: 1344
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Hayley GILL
+Patient has been treated!
+Simulation minute: 1345
+The Waiting Room is Empty...
+Simulation minute: 1346
+The Waiting Room is Empty...
+Simulation minute: 1347
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Johanna TATE
+Patient has been treated!
+Simulation minute: 1348
+The Waiting Room is Empty...
+Simulation minute: 1349
+The Waiting Room is Empty...
+Simulation minute: 1350
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Lilian SCHROEDER
+Patient has been treated!
+Simulation minute: 1351
+The Waiting Room is Empty...
+Simulation minute: 1352
+The Waiting Room is Empty...
+Simulation minute: 1353
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Natasha CHAN
+Patient has been treated!
+Simulation minute: 1354
+The Waiting Room is Empty...
+Simulation minute: 1355
+The Waiting Room is Empty...
+Simulation minute: 1356
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Nia FLOYD
+Patient has been treated!
+Simulation minute: 1357
+The Waiting Room is Empty...
+Simulation minute: 1358
+The Waiting Room is Empty...
+Simulation minute: 1359
+There are 1 patients in the waiting room
+Simulation minute: 1360
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Dayana MOODY
+Patient has been treated!
+Simulation minute: 1361
+The Waiting Room is Empty...
+Simulation minute: 1362
+The Waiting Room is Empty...
+Simulation minute: 1363
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kennedi LINDSEY
+Patient has been treated!
+Simulation minute: 1364
+The Waiting Room is Empty...
+Simulation minute: 1365
+The Waiting Room is Empty...
+Simulation minute: 1366
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Melina BROCK
+Patient has been treated!
+Simulation minute: 1367
+The Waiting Room is Empty...
+Simulation minute: 1368
+The Waiting Room is Empty...
+Simulation minute: 1369
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Alissa PACHECO
+Patient has been treated!
+Simulation minute: 1370
+The Waiting Room is Empty...
+Simulation minute: 1371
+The Waiting Room is Empty...
+Simulation minute: 1372
+There are 1 patients in the waiting room
+Simulation minute: 1373
+There are 1 patients in the waiting room
+Simulation minute: 1374
+There are 1 patients in the waiting room
+Simulation minute: 1375
+There are 2 patients in the waiting room
+Simulation minute: 1376
+There are 2 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Nancy OLSEN
+Patient has been treated!
+Simulation minute: 1377
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Lorelei WEISS
+Patient has been treated!
+Simulation minute: 1378
+There are 1 patients in the waiting room
+Simulation minute: 1379
+There are 1 patients in the waiting room
+Simulation minute: 1380
+There are 1 patients in the waiting room
+Simulation minute: 1381
+There are 2 patients in the waiting room
+Simulation minute: 1382
+There are 2 patients in the waiting room
+Simulation minute: 1383
+There are 2 patients in the waiting room
+Simulation minute: 1384
+There are 3 patients in the waiting room
+Simulation minute: 1385
+There are 3 patients in the waiting room
+Simulation minute: 1386
+There are 3 patients in the waiting room
+Simulation minute: 1387
+There are 4 patients in the waiting room
+Simulation minute: 1388
+There are 4 patients in the waiting room
+Simulation minute: 1389
+There are 4 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Anika SUMMERS
+Patient has been treated!
+Simulation minute: 1390
+There are 4 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Halle GALLEGOS
+Patient has been treated!
+Simulation minute: 1391
+There are 3 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Madilynn DAVENPORT
+Patient has been treated!
+Simulation minute: 1392
+There are 2 patients in the waiting room
+Simulation minute: 1393
+There are 3 patients in the waiting room
+Simulation minute: 1394
+There are 3 patients in the waiting room
+Simulation minute: 1395
+There are 3 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Rosalie ALLISON
+Patient has been treated!
+Simulation minute: 1396
+There are 3 patients in the waiting room
+Simulation minute: 1397
+There are 3 patients in the waiting room
+Simulation minute: 1398
+There are 3 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Shaniya COMBS
+Patient has been treated!
+Simulation minute: 1399
+There are 3 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Lesly ANTHONY
+Patient has been treated!
+Simulation minute: 1400
+There are 2 patients in the waiting room
+Simulation minute: 1401
+There are 2 patients in the waiting room
+Simulation minute: 1402
+There are 3 patients in the waiting room
+Simulation minute: 1403
+There are 3 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Nylah CASTANEDA
+Patient has been treated!
+Simulation minute: 1404
+There are 2 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Raven HODGE
+Patient has been treated!
+Simulation minute: 1405
+There are 2 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Nathalie ATKINS
+Patient has been treated!
+Simulation minute: 1406
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Maleah DELACRUZ
+Patient has been treated!
+Simulation minute: 1407
+The Waiting Room is Empty...
+Simulation minute: 1408
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Diamond PITTS
+Patient has been treated!
+Simulation minute: 1409
+The Waiting Room is Empty...
+Simulation minute: 1410
+The Waiting Room is Empty...
+Simulation minute: 1411
+There are 1 patients in the waiting room
+Simulation minute: 1412
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Lailah HUTCHINSON
+Patient has been treated!
+Simulation minute: 1413
+The Waiting Room is Empty...
+Simulation minute: 1414
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: America HOBBS
+Patient has been treated!
+Simulation minute: 1415
+The Waiting Room is Empty...
+Simulation minute: 1416
+The Waiting Room is Empty...
+Simulation minute: 1417
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Phoenix STEPHENSON
+Patient has been treated!
+Simulation minute: 1418
+The Waiting Room is Empty...
+Simulation minute: 1419
+The Waiting Room is Empty...
+Simulation minute: 1420
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Kallie BARRON
+Patient has been treated!
+Simulation minute: 1421
+The Waiting Room is Empty...
+Simulation minute: 1422
+The Waiting Room is Empty...
+Simulation minute: 1423
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Jessie MCCLAIN
+Patient has been treated!
+Simulation minute: 1424
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Jordynn BARRY
+Patient has been treated!
+Simulation minute: 1425
+The Waiting Room is Empty...
+Simulation minute: 1426
+The Waiting Room is Empty...
+Simulation minute: 1427
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Rachael MERRITT
+Patient has been treated!
+Simulation minute: 1428
+The Waiting Room is Empty...
+Simulation minute: 1429
+The Waiting Room is Empty...
+Simulation minute: 1430
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Abril VALENZUELA
+Patient has been treated!
+Simulation minute: 1431
+The Waiting Room is Empty...
+Simulation minute: 1432
+The Waiting Room is Empty...
+Simulation minute: 1433
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Rosemary WHITEHEAD
+Patient has been treated!
+Simulation minute: 1434
+The Waiting Room is Empty...
+Simulation minute: 1435
+The Waiting Room is Empty...
+Simulation minute: 1436
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Alia STOUT
+Patient has been treated!
+Simulation minute: 1437
+The Waiting Room is Empty...
+Simulation minute: 1438
+The Waiting Room is Empty...
+Simulation minute: 1439
+There are 1 patients in the waiting room
+Patient has found a caretaker... 
+Patient Name: Mariyah DURHAM
+Patient has been treated!
+This week, 481 patients were treated
