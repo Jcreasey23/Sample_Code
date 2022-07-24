@@ -16,7 +16,7 @@ private:
 
     std:: queue<Patient> highPriorityqueue;
 
-    std :: queue<Patient> processedPatients;
+    std :: multimap<std::string, Patient> processedPatients;
 
     std :: vector<std::string> firstNames;
 
@@ -33,29 +33,25 @@ private:
     Random myRandom;
 
 public:
-    WaitingRoom();// : numAppointments(0){};
+    WaitingRoom();
 
-    int get_appointments() const;
+    int get_appointments() const;       // gets numner of appointments in simulation
 
-    int get_totPatTime() const;
+    int get_totPatTime() const;         // determines how long patient was at ER
 
-    size_t size() const;
+    void checkArrival(int clock, bool showAll); // Checks for the arrival of a new patient in the waiting room
 
-    void checkArrival(int clock, bool showAll);
+    void setArrivalrate(double newArrivalrate); // sets arrival rate of patients coming into the waiting room
 
-    int update(int clock, bool showAll);
+    int waitingroomct();    // current size of the waiting room
 
-    void setArrivalrate(double newArrivalrate);
+    Patient nextPatient();  // Looks for next patient to be helped
 
-    bool empty() const;
+    void removePatient(int clock, Patient pat); // removes patient from waiting room queue and adds them to a processed patient map
 
-    int waitingroomct();
+    void readnames();   // reads names of 2000 potential patients in the city of 273ville
 
-    Patient nextPatient();
-
-    void removePatient(Patient pat);
-
-    void readnames();
+    void postSim(int userselection);    // Allows user to interact with simulation results
 
 
 };

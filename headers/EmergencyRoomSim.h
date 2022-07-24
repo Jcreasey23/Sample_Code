@@ -8,7 +8,7 @@ class ER_Sim
 {
 private:
     // sub queues based on priority
-    Hospital hospital;
+    Hospital hospital;  // Hospital object in which the simulation is going to occur
 
 //////////////////////////////////////////////////////////////////
     int patientarrivalrate; // entered by user max 60 per hour
@@ -34,17 +34,11 @@ public:
 
     ER_Sim();/// : clock(0), finishTime(0)
 
-    void triagePatient();   // Places patient in correct "container"
-
-    void careforPatient();
-
-    void findCaretaker(Patient p);
-
     void run_Sim();     // runs simulation
 
     void enter_data();  // Reads in the data for the simulation
 
-    void show_stats();  // Display the summary statistics
+    void postSim(int userselection);    // Allows user to interact with simulation results
 
 };
 

@@ -6,18 +6,15 @@ class CareGiver
 {
 
 private:
-
-    // int max_severity;
-    // int max_CareTime;
-    int busyUntil = 0;
+    int busyUntil = 0;  // indicates clock time in which doctor is busyt helping patient
 
 public:
 
-    void treatPatient();
+    void treatPatient();    // Caregiver treats patient
 
-    bool available();
+    bool available();       // Is the caregiver available to help a patient
 
-    void setbusy(int clock);
+    void setbusy(int clock);    // Set busy until clock time
 
 
 };
@@ -27,17 +24,15 @@ class Doctor : public CareGiver
 
 private:
 
-    int max_severity = 20;
-    int max_CareTime = 20;
-    int busyUntil = 0;
+    int busyUntil = 0;  // indicates clock time in which doctor is busyt helping patient
 
 public:
 
-    void treatPatient(int clock, Doctor doc);
+    void treatPatient(int clock, Doctor doc);   // Doctor treats patient at a clock time in sim
 
-    bool available(int clock, Doctor doc);
+    bool available(int clock, Doctor doc);      // Doctor is available at clock time in sim
 
-    void setbusy(int clock);
+    void setbusy(int clock);                // sets doctor as busy until a new clock time
 };
 
 class Nurse : public CareGiver
@@ -45,17 +40,15 @@ class Nurse : public CareGiver
 
 private:
 
-    int max_severity = 10;
-    int max_CareTime = 10;
-    int busyUntil = 0;
+    int busyUntil = 0;  // indicates clock time in which nurse is busyt helping patient
 
 public:
 
-    void treatPatient(int clock, Nurse nurse);
+    void treatPatient(int clock, Nurse nurse);  // Nurse treats patient at clock time in sim
 
-    bool available(int clock, Nurse nurse);
+    bool available(int clock, Nurse nurse);     // Nurse is available at clock time in sim
 
-    void setbusy(int clock);
+    void setbusy(int clock);                // sets Nurse as busy until a new clock time
 
 };
 

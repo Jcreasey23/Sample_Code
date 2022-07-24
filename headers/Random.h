@@ -14,5 +14,7 @@ public:
 
     double next_double();
 
+    
+
 
 };

@@ -2,6 +2,8 @@
 #include <Random.h>
 
 
+// Random class was borrowed from textbook to help generate random numbers and generate a more random arrival rate of patients to the ER
+/////////////////////////////////////////////////////////////////////////////////
  Random :: Random()
     {
         std:: srand(std::time(0));
@@ -22,3 +24,4 @@
     {
         return double(std::rand()) / RAND_MAX;
     }
+    /////////////////////////////////////////////////////////////////////////////////

@@ -24,27 +24,29 @@ private:
     bool treated;
 
 public:
-    Patient(int arrivaltime);
+    Patient(int arrivaltime);   // Patient constructor
 
-    int get_arrivaltime() const;
+    int get_arrivaltime() const;    // gets the clock arrival time of patient
 
-    int get_caretime() const;
+    int get_endtime();  // gets end time when patient has been processed
 
-    std:: string get_PatientfName();
+    std:: string get_PatientfName();    // gets patient's first name
 
-    std:: string get_Patientlname();
+    std:: string get_Patientlname();    // gets patient's last name
 
-    int get_Severity() const;
+    int get_Severity() const;       // gets patient's severity of illness on arrival to Waiting room
 
-    void set_Severity(int sev);
+    int get_averagetime(Patient pat);   // helps calculate avg. patient waiting time in waiting room
 
-    void set_arrivaltime(int time);
+    void set_arrivaltime(int time); // sets arrival time of a new patient
 
-    void set_startcare(int time);
+    void set_startcare(int time);   // sets when a patient recieves care
 
-    void set_endcare(int time);
+    void set_Severity(int sev);     // sets severity of an illness
+
+    void set_endcare(int time);     // sets time after processed patient
     
-    void set_name(std:: string fname, std:: string lname);
+    void set_name(std:: string fname, std:: string lname);  // sets first and last names of a patient
 };
 
 

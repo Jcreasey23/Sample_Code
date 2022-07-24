@@ -14,20 +14,13 @@ public:
     
     std:: vector<Nurse> nurses;    // Fill with # of nurses objects specified by user
 
-    WaitingRoom waitRoom;   
+    WaitingRoom waitRoom;   // An instance of a ER waiting room in the hospital object
 
-    void createDoctors(int numDoc);
+    void createDoctors(int numDoc); // Creates number of doctors specified by the user
 
-    void createNurses(int numNur);
+    void createNurses(int numNur);  // Creates number of nurses specified by the user
 
-    bool findCaretaker(int clock, Patient p);
-
-    // Need to establish a way to create a file of records for each patient admitted to ER
-    // Patient name, severity of illness on trip(s), and total number of trips
-
+    bool findCaretaker(int clock, Patient p);   // Finds a caretaker for a patient in the waiting room
     
-
-
-
 };
 
